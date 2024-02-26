@@ -3,7 +3,7 @@ import streamlit as st
 from config import pagesetup as ps
 from openai import OpenAI
 import time
-from app import assistant_chat as asst, background_image as bckim
+from app import assistant_chat as asst, background_image as bckim, betting_form as bf
 
 # 1. Set Page Config
 app_name = "Daddy Bets"
@@ -22,4 +22,5 @@ ps.set_page_overview(varHeader=overview_header, varText=overview_text)
 
 # 4. Set assistant chat
 bckim.display_background_image()
+bf.display_betting_form()
 asst.app_chat()
