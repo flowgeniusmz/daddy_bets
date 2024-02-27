@@ -49,6 +49,7 @@ def set_blue_header(varSubtitle):
                 {
                         background-color: #2b16d7;
                         border: 8px;
+                        border-color: white;
                         border-radius: 1em;
                         padding: .75em;
                 }
