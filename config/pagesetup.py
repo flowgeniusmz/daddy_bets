@@ -4,7 +4,7 @@ from streamlit_elements import elements, mui, html
 import hydralit_components as hc
 import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
-from streamlit_extras.stylable_container import stylable container
+from streamlit_extras.stylable_container import stylable_container
 
 #font_import = "<style>@import url('https://example.com/path/to/kode-mono-font.css');</style>"
 
