@@ -12,7 +12,7 @@ font_import = "<style>@import url('https://example.com/path/to/kode-mono-font.cs
 def set_title(varTitle, varSubtitle):
         with stylable_container(
         key="markdown_text",
-        css_styles"""
+        css_styles="""
         {
                 background-color: coral;
                 border-radius: 2em;
