@@ -48,7 +48,7 @@ def set_blue_header(varSubtitle):
                 css_styles="""
                 {
                         background-color: #2b16d7;
-                        color: white;
+                        border: 8px;
                         border-radius: 1em;
                         padding: .75em;
                 }
@@ -65,6 +65,7 @@ def set_green_header(varSubtitle):
                         background-color: #d75e00;
                         color: white;
                         border-radius: 1em;
+                        border
                         padding: .75em;
                 }
                 """,
