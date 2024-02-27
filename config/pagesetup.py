@@ -26,17 +26,50 @@ def set_title(varTitle, varSubtitle):
 
 
 def set_title_nodiv(varTitle, varSubtitle):
-        st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
-        #st.divider()
+        with stylable_container(
+                key="markdown_text",
+                css_styles="""
+                {
+                        background-color: #4c1130;
+                        color: white;
+                        border-radius: 1em;
+                        padding: .75em;
+                }
+                """,
+        ):
+                st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+        st.divider()
 
 
 ### 2.  Wording
 def set_blue_header(varSubtitle):
-    st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+        with stylable_container(
+                key="markdown_text",
+                css_styles="""
+                {
+                        background-color: #4c1130;
+                        color: white;
+                        border-radius: 1em;
+                        padding: .75em;
+                }
+                """,
+        ):
+            st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
     
 
 def set_green_header(varSubtitle):
-    st.markdown(f"""<span style="font-weight: bold; color:#00b084; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+        with stylable_container(
+                key="markdown_text",
+                css_styles="""
+                {
+                        background-color: #4c1130;
+                        color: white;
+                        border-radius: 1em;
+                        padding: .75em;
+                }
+                """,
+        ):
+            st.markdown(f"""<span style="font-weight: bold; color:#00b084; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
 
              
 ### PAGE LINKS ####
