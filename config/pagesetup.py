@@ -11,7 +11,7 @@ font_import = "<style>@import url('https://example.com/path/to/kode-mono-font.cs
 ### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
         with stylable_container(
-                key="markdown_text",
+                key="markdown_title_text",
                 css_styles="""
                 {
                         background-color: #4c1130;
