@@ -13,7 +13,7 @@ page_icon = "https://storage.googleapis.com/production-domaincom-v1-0-8/048/1724
 page_description = "Is a gambler's best friend. It is capable of taking your Odds Assistant odds and analyzing the smart bets for you."
 overview_header = "Overview"
 overview_text = f"**{page_subtitle}** {page_description.lower()}"
-st.set_page_config(page_icon=page_icon, layout="centered")
+st.set_page_config(page_icon=page_icon, layout="wide")
 
 # 2. Set Page Title
 ps.set_title(varTitle=page_title, varSubtitle=page_subtitle)
