@@ -6,10 +6,23 @@ import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.stylable_container import stylable container
 
+font_import = "<style>@import url('https://example.com/path/to/kode-mono-font.css');</style>"
+
 ### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
-        st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+        with styable_container(
+        key="markdown_text",
+        css_styles=["""
+        {
+                background-color: coral;
+                border-radius: 2em;
+                padding: 0.5em;
+        }
+        """,]
+):
+        st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
         st.divider()
+
 
 def set_title_nodiv(varTitle, varSubtitle):
         st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
@@ -24,19 +37,7 @@ def set_blue_header(varSubtitle):
 def set_green_header(varSubtitle):
     st.markdown(f"""<span style="font-weight: bold; color:#00b084; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
 
-### 3. Element styling (background bordering)
-def set_container_style(varelementstyle):
-        with styable_container(
-                key="markdown_text",
-                css_styles=["""
-                {
-                        background-color: coral;
-                        border-radius: 2em;
-                        padding: 0.5em;
-                }
-                """,]
-        ):
-                
+             
 ### PAGE LINKS ####
 
 def get_pagelinks():
