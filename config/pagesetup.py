@@ -16,7 +16,7 @@ def set_title(varTitle, varSubtitle):
                 {
                         background-color: #4c1130;
                         border-radius: 1em;
-                        padding: 0.5em;
+                        padding: 1em;
                 }
                 """,
         ):
