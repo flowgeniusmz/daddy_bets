@@ -11,17 +11,17 @@ font_import = "<style>@import url('https://example.com/path/to/kode-mono-font.cs
 ### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
         with stylable_container(
-        key="markdown_text",
-        css_styles="""
-        {
-                background-color: coral;
-                border-radius: 2em;
-                padding: 0.5em;
-        }
-        """,
-):
-        st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
-        st.divider()
+                key="markdown_text",
+                css_styles="""
+                {
+                        background-color: coral;
+                        border-radius: 2em;
+                        padding: 0.5em;
+                }
+                """,
+        ):
+                st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+                st.divider()
 
 
 def set_title_nodiv(varTitle, varSubtitle):
