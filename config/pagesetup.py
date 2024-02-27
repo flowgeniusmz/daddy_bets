@@ -20,7 +20,7 @@ def set_title(varTitle, varSubtitle):
                 }
                 """,
         ):
-                st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+                st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#ffffff;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
         st.divider()
 
 
