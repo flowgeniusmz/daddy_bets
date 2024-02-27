@@ -24,11 +24,19 @@ def set_blue_header(varSubtitle):
 def set_green_header(varSubtitle):
     st.markdown(f"""<span style="font-weight: bold; color:#00b084; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
 
-### 3. Element styling
+### 3. Element styling (background bordering)
 def set_container_style(varelementstyle):
         with styable_container(
-                key="
-
+                key="markdown_text",
+                css_styles=["""
+                {
+                        background-color: coral;
+                        border-radius: 2em;
+                        padding: 0.5em;
+                }
+                """,]
+        ):
+                
 ### PAGE LINKS ####
 
 def get_pagelinks():
