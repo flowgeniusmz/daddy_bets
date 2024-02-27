@@ -14,7 +14,7 @@ def set_title(varTitle, varSubtitle):
                 key="markdown_text",
                 css_styles="""
                 {
-                        background-color: grey;
+                        background-color: #00b084;
                         border-radius: 2em;
                         padding: 0.5em;
                 }
