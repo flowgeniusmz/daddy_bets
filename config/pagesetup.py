@@ -6,7 +6,7 @@ import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.stylable_container import stylable_container
 
-font_import = "<style>@import url('https://example.com/path/to/kode-mono-font.css');</style>"
+font_import = "<style>@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap')</style>"
 
 ### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
