@@ -4,6 +4,7 @@ from streamlit_elements import elements, mui, html
 import hydralit_components as hc
 import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
+from streamlit_extras.stylable_container import stylable container
 
 ### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
@@ -22,6 +23,11 @@ def set_blue_header(varSubtitle):
 
 def set_green_header(varSubtitle):
     st.markdown(f"""<span style="font-weight: bold; color:#00b084; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+
+### 3. Element styling
+def set_container_style(varelementstyle):
+        with styable_container(
+                key="
 
 ### PAGE LINKS ####
 
