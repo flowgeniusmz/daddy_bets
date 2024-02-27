@@ -14,7 +14,7 @@ def set_title(varTitle, varSubtitle):
                 key="markdown_title_text",
                 css_styles="""
                 {
-                        background-color: #4c1130;
+                        background-color: #974200;
                         color: white;
                         border-radius: 1em;
                         padding: .75em;
@@ -30,7 +30,7 @@ def set_title_nodiv(varTitle, varSubtitle):
                 key="markdown_text",
                 css_styles="""
                 {
-                        background-color: #4c1130;
+                        background-color: #d75e00;
                         color: white;
                         border-radius: 1em;
                         padding: .75em;
@@ -47,7 +47,7 @@ def set_blue_header(varSubtitle):
                 key="markdown_text",
                 css_styles="""
                 {
-                        background-color: #4c1130;
+                        background-color: #2b16d7;
                         color: white;
                         border-radius: 1em;
                         padding: .75em;
@@ -62,7 +62,7 @@ def set_green_header(varSubtitle):
                 key="markdown_text",
                 css_styles="""
                 {
-                        background-color: #4c1130;
+                        background-color: #1e0f97;
                         color: white;
                         border-radius: 1em;
                         padding: .75em;
