@@ -15,7 +15,8 @@ def set_title(varTitle, varSubtitle):
                 css_styles="""
                 {
                         background-color: #974200;
-                        color: white;
+                        border: 8px;
+                        border-color: white
                         border-radius: 1em;
                         padding: .75em;
                 }
@@ -31,7 +32,6 @@ def set_title_nodiv(varTitle, varSubtitle):
                 css_styles="""
                 {
                         background-color: #d75e00;
-                        color: white;
                         border-radius: 1em;
                         padding: .75em;
                 }
@@ -48,8 +48,6 @@ def set_blue_header(varSubtitle):
                 css_styles="""
                 {
                         background-color: #2b16d7;
-                        border: 8px;
-                        border-color: white;
                         border-radius: 1em;
                         padding: .75em;
                 }
@@ -64,7 +62,6 @@ def set_green_header(varSubtitle):
                 css_styles="""
                 {
                         background-color: #d75e00;
-                        color: white;
                         border-radius: 1em;
                         border
                         padding: .75em;
