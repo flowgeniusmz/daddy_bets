@@ -14,8 +14,8 @@ page_description = "Is a gambler's best friend. It is capable of taking your Odd
 overview_header = "Overview"
 overview_text = f"**{page_subtitle}** {page_description.lower()}"
 
-with open('config/style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+# with open('config/style.css') as f:
+#     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # 2. Set Page Title
 ps.set_title(varTitle=page_title, varSubtitle=page_subtitle)
