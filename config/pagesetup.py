@@ -5,7 +5,7 @@ import hydralit_components as hc
 import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.stylable_container import stylable_container
-
+with open( "config/style.css" ) as css
 
 def set_title(varTitle, varSubtitle):
         with stylable_container(
