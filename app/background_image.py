@@ -7,7 +7,7 @@ def display_background_image():
         f"""
         <style>
         .stApp {{
-            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.90)), url({background_image});
+            background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.90)), url({background_image});
             background-size: cover;
         }}
         </style>
