@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap'); 
 
-html, body, div, p, [class*="css"] {
-    font-family: 'Roboto', Kode Mono; 
+html, body, div, [class*="css"] {
+    font-family: 'Roboto', slab; 
     font-size: 18px;
     font-weight: 500;
     color: #091747;
