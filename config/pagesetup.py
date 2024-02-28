@@ -17,6 +17,7 @@ def set_title(varTitle, varSubtitle):
                         background-color: #974200;
                         border-radius: 1em;
                         padding: .75em;
+                        font-family: 'Arial', monospace;
                 }
                 """,
         ):
