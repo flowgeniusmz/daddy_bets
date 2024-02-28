@@ -18,7 +18,7 @@ from streamlit_extras.stylable_container import stylable_container
 # """
 
 # Inject the font import into the app
-st.markdown(font_import, unsafe_allow_html=True)
+# st.markdown(font_import, unsafe_allow_html=True)
 ### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
         with stylable_container(
