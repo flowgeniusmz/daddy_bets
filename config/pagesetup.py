@@ -26,14 +26,13 @@ def set_title_nodiv(varTitle, varSubtitle):
                 key="markdown_text",
                 css_styles="""
                 {
-                        background-color: #d75e00;
+                        background-color: #2b16d7;
                         border-radius: 1em;
                         padding: .75em;
                 }
                 """,
         ):
-                st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
-        st.divider()
+            st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
 
 
 ### 2.  Wording
