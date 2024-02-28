@@ -6,20 +6,6 @@ import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.stylable_container import stylable_container
 
-# # Define the font import and additional styles if necessary
-# font_import = """
-# <style>
-# @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
-
-# body {
-#     font-family: 'Kode Mono', monospace;
-# }
-# </style>
-# """
-
-# Inject the font import into the app
-# st.markdown(font_import, unsafe_allow_html=True)
-### 1. TITLE and SUBTITLE
 def set_title(varTitle, varSubtitle):
         with stylable_container(
                 key="markdown_title_text",
@@ -32,7 +18,7 @@ def set_title(varTitle, varSubtitle):
                 """,
         ):
                 st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
-                st.divider()
+        st.divider()
 
 
 def set_title_nodiv(varTitle, varSubtitle):
