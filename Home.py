@@ -4,7 +4,7 @@ from config import pagesetup as ps
 from openai import OpenAI
 import time
 from app import assistant_chat as asst, background_image as bckim, betting_form as bf
-with open( "config\style.css" ) as css:
+with open( "config/style.css" ) as css:
     st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
 
 # 1. Set Page Config
