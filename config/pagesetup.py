@@ -6,7 +6,7 @@ import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.stylable_container import stylable_container
 
-# def set_title(varTitle, varSubtitle):
+def set_title(varTitle, varSubtitle):
 #         with stylable_container(
 #                 key="markdown_title_text",
 #                 css_styles="""
@@ -17,7 +17,7 @@ from streamlit_extras.stylable_container import stylable_container
 #                 }
 #                 """,
 #         ):
-#                 #st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+        st.markdown(f"""{font_import}<span style="font-weight: bold; font-size: 2em; color:#00b084;">{varTitle} </span> <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
 #         st.divider()
 
 
