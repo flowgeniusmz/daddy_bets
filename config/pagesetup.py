@@ -9,7 +9,7 @@ from streamlit_extras.stylable_container import stylable_container
 def set_title(varTitle, varSubtitle):
         with stylable_container(
                 key="markdown_text",
-                css_style="""
+                css_styles="""
                 {
                         background-color: #2b16d7;
                         border-radius: 1em;
