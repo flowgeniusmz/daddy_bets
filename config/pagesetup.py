@@ -10,7 +10,7 @@ with open( "config/style.css" ) as css
 def set_title(varTitle, varSubtitle):
         with stylable_container(
                 key="markdown_text",
-                css_styles="""
+                css="""
                 {
                         background-color: #2b16d7;
                         border-radius: 1em;
