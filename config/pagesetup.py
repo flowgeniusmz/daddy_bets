@@ -15,11 +15,10 @@ def set_title(varTitle, varSubtitle):
                         background-color: #2b16d7;
                         border-radius: 1em;
                         padding: .75em;
-                        font: css;
                 }
                 """,
         ):
-            st.markdown(f"""<style>{css.read()}</style>';<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+            st.markdown(f"""<style>{css.read()}</style>; <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
         st.divider()
 
 
