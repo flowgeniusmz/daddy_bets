@@ -5,7 +5,6 @@ import hydralit_components as hc
 import extra_streamlit_components as stx
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.stylable_container import stylable_container
-with open( "config/style.css" ) as css
 
 def set_title(varTitle, varSubtitle):
         with stylable_container(
@@ -18,7 +17,7 @@ def set_title(varTitle, varSubtitle):
                 }
                 """,
         ):
-            st.markdown(f"""<style>{css.read()}</style>; <span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+            st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
         st.divider()
 
 
