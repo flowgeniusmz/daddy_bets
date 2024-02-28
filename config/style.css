@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Micro+5&display=swap')
 
 html, body [class*="css"] {
-    font-family: 'Roboto', Micro 5; 
+    font-family: 'micro 5', static; 
     font-size: 18px;
     font-weight: 500;
     color: #091747;
