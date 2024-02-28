@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap'); 
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Micro+5&display=swap')
+</style>
 html, body [class*="css"] {
-    font-family: 'Roboto', Kode Mono; 
+    font-family: 'Roboto', Micro 5; 
     font-size: 18px;
     font-weight: 500;
     color: #091747;
