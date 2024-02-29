@@ -1,5 +1,4 @@
 import streamlit as st
-<<<<<<< HEAD
 from config import pagesetup as ps
 from openai import OpenAI
 import time
@@ -16,7 +15,7 @@ page_description = "Is a gambler's best friend. It is capable of taking your Odd
 overview_header = "Overview"
 overview_text = f"**{page_subtitle}** {page_description.lower()}"
 #st.set_page_config(page_icon=page_icon, layout="wide")
-=======
+
 from config import pagesetup as ps, sessionstates as ss
 
 >>>>>>> c9c34f2 (mz push)
