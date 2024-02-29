@@ -1,5 +1,5 @@
 import streamlit as st
-<<<<<<< HEAD
+
 import streamlit.components.v1 as c
 from streamlit_elements import elements, mui, html
 import hydralit_components as hc
@@ -107,7 +107,7 @@ def set_nav_bar():
                 hide_streamlit_markers=False,
                 sticky_nav = True,
                 sticky_mode = "pinned"
-=======
+
 
 
 
@@ -118,7 +118,7 @@ def get_st_page_config():
         page_icon=st.secrets.streamlit.config_app_icon,
         layout=st.secrets.streamlit.config_app_layout,
         initial_sidebar_state=st.secrets.streamlit.config_app_initial_sidebar
->>>>>>> c9c34f2 (mz push)
+
         )
     
 # 2. Set Title
@@ -262,7 +262,7 @@ def get_page_link(varPageNumber):
 
 
 
-<<<<<<< HEAD
+
     for idx, metric in enumerate(metrics):
         cols[idx].metric(label=metric["label"], value=metric["value"], delta=metric["delta"])
     style_metric_cards(
@@ -284,7 +284,7 @@ def get_page_link(varPageNumber):
   #  """
 
   #https://arnaudmiribel.github.io/streamlit-extras/extras/metric_cards/     
-=======
+
 def display_background_image():
     # Set the Streamlit image for branding as the background with transparency
     background_image = 'https://storage.googleapis.com/production-domaincom-v1-0-8/048/1724048/4RBifvGs/dfc737c8f0d640cfa7e8623583bfcf5e'
@@ -299,4 +299,4 @@ def display_background_image():
         """,
         unsafe_allow_html=True
     )
->>>>>>> c9c34f2 (mz push)
+
