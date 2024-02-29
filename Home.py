@@ -18,7 +18,7 @@ overview_text = f"**{page_subtitle}** {page_description.lower()}"
 
 from config import pagesetup as ps, sessionstates as ss
 
->>>>>>> c9c34f2 (mz push)
+
 
 # 0. Page Config
 ps.get_st_page_config()
@@ -26,12 +26,12 @@ ps.get_st_page_config()
 with open( "config/style.css" ) as css:
     st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
 
-<<<<<<< HEAD
+
 # 4. Set assistant chat
 bckim.display_background_image()
 bf.display_betting_form()
 asst.app_chat()
-=======
+
 # 1. Page Title
 ps.get_title(0)
 
@@ -54,4 +54,4 @@ with link_container:
     with link_columns[1]:
         ps.get_page_link(2)
         ps.get_page_link(4)
->>>>>>> c9c34f2 (mz push)
+
