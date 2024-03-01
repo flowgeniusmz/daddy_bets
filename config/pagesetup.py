@@ -9,22 +9,23 @@ from streamlit_extras.stylable_container import stylable_container
 
 def set_title(varTitle, varSubtitle):
         with stylable_container(
-            key="container_with_border",
-            css_styles=["""
-                {
-                    border-color: 1px solid rgba(11, 140, 71, 0.7);
-                    background-color: 1px solid rgba(11, 140, 71, 0.7);
-                    border-radius: 0.5rem;
-                    padding: calc(0.2em - 10px) 1.5em;
-                }
-        
-                .stMarkdown {
-                    padding: 1.5em;
-                }
-                """]
-            ):
-                st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
-                st.divider()
+                key="container_with_border",
+                css_styles=["""
+                    {
+                        border: 1px solid rgba(115, 0, 0, 1);
+                        background-color: rgba(115, 0, 0, .75);
+                       
+                        
+                    }
+                    """,
+                    """
+                    .stMarkdown {
+                            padding-right: .2em;
+                            padding-left: .5em;
+                        """]
+                ):
+                        st.markdown(f"""<span style="font-weight: bold; color:#0096D7; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+                        st.divider()
 
 
 def set_title_nodiv(varTitle, varSubtitle):
