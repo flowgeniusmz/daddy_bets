@@ -16,21 +16,6 @@ client = OpenAI()
 def app_chat():
     container = st.container()
     with container:
-        with stylable_container(
-    key="container_with_border",
-    css_styles=["""
-        {
-            border: 1px solid rgba(11, 140, 71, 0.7);
-            background-image: url('path_to_your_local_image.jpg');
-            border-radius: 0.5rem;
-            padding: calc(0.2em - 10px) 1.5em;
-        }
-
-        .stMarkdown {
-            padding: 1.5em;
-        }
-        """]
-    ):
             #3. Session State Management
         if "session_id" not in st.session_state: #used to identify each session
             st.session_state.session_id = str(uuid.uuid4())
