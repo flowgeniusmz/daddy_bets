@@ -28,26 +28,11 @@ chat_container = st.container(border=True, height=350)
 
 # 4. Display Existing Messages in St.Session_State.Messages (will display initial message if no chat messages entered)
 with chat_container:
-    with stylable_container(
-    key="container_with_border",
-    css_styles=["""
-        {
-            border: 1px solid rgba(11, 140, 71, 0.7);
-            background-image: url('path_to_your_local_image.jpg');
-            border-radius: 0.5rem;
-            padding: calc(0.2em - 10px) 1.5em;
-        }
-
-        .stMarkdown {
-            padding: 1.5em;
-        }
-        """]
-    ):
-        for existing_message in st.session_state.messages:
-            existing_message_role = existing_message["role"]
-            existing_message_content = existing_message["content"]
-            with st.chat_message(existing_message_role):
-                st.markdown(existing_message_content)
+    for existing_message in st.session_state.messages:
+        existing_message_role = existing_message["role"]
+        existing_message_content = existing_message["content"]
+        with st.chat_message(existing_message_role):
+            st.markdown(existing_message_content)
 
 # 5. Set Chat_Input and Await User Input
 if prompt := st.chat_input("Thank you Daddy!"):
