@@ -90,24 +90,6 @@ def set_page_section(varHeader, varText):
         st.divider()
         return section_placeholder
 
-### 4. HYDRALIT NAVBAR
-
-def set_nav_bar():
-        navbar_menu_items = [
-                {'icon': "far fa-chart-bar", 'label':"Item1", 'ttip': "tooltip"},
-                {'icon': "fas fa-tachometer-alt", 'label':"Item2",'ttip':"tooltip"},
-                {'icon': "far fa-copy", 'label':"Item3", 'ttip': "Tooltip", 'submenu': [{'icon': "fa fa-paperclip", 'label': "Subitem1"}, {'icon': "fa fa-database", 'label': "subitem2"}, {'icon': "far fa-copy", 'label': "Subitem3"}]}
-        ]
-        over_theme = {'txc_inactive': '#FFFFFF'}
-        menu_id = hc.nav_bar(
-                menu_definition = navbar_menu_items, 
-                override_theme = over_theme,
-                home_name = "Home",
-                login_name = "Logout",
-                hide_streamlit_markers=False,
-                sticky_nav = True,
-                sticky_mode = "pinned"
-
 
 
 
@@ -118,7 +100,6 @@ def get_st_page_config():
         page_icon=st.secrets.streamlit.config_app_icon,
         layout=st.secrets.streamlit.config_app_layout,
         initial_sidebar_state=st.secrets.streamlit.config_app_initial_sidebar
-
         )
     
 # 2. Set Title
@@ -263,13 +244,6 @@ def get_page_link(varPageNumber):
 
 
 
-    for idx, metric in enumerate(metrics):
-        cols[idx].metric(label=metric["label"], value=metric["value"], delta=metric["delta"])
-    style_metric_cards(
-         border_left_color="#0096D7",
-         border_color="#0096D7",
-         box_shadow=True
-    )
 
   #"""
  #   Applies a custom style to st.metrics in the page

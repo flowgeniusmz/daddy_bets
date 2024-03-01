@@ -3,7 +3,7 @@ from config import pagesetup as ps, sessionstates as ss
 
 
 # 0. Page Config
-ps.get_st_page_config()
+
 
 with open( "config/style.css" ) as css:
     st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
