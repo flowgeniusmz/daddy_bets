@@ -57,17 +57,6 @@ def set_blue_header(varSubtitle):
     
 
 def set_green_header(varSubtitle):
-        with stylable_container(
-                key="markdown_text",
-                css_styles="""
-                {
-                        background-color: #d75e00;
-                        border-radius: 1em;
-                        border
-                        padding: .75em;
-                }
-                """,
-        ):
             st.markdown(f"""<span style="font-weight: bold; color:#00b084; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
 
              
@@ -83,9 +72,20 @@ def get_pagelinks():
 
 ### 3. PAGE OVERVIEW
 def set_page_overview(varHeader, varText):
-        set_blue_header(varHeader)
-        st.markdown(f"{varText}")
-        st.divider()
+        with stylable_container(
+                key="markdown_text",
+                css_styles="""
+                {
+                        border-color: 1px solid rgba(115,0,0, .7em);
+                        background-color: #d75e00;
+                        border-radius: 1em;
+                        padding: .75em;
+                }
+                """,
+        ):
+                set_blue_header(varHeader)
+                st.markdown(f"{varText}")
+                st.divider()
 
 ### 3. PAGE SECTION
 def set_page_section(varHeader, varText):
