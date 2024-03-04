@@ -1,0 +1,422 @@
+{
+    "poll": {
+        "id": "9341408d-9f9a-463f-ab60-be8d1aeeffa2",
+        "alias": "AP",
+        "name": "AP Top 25"
+    },
+    "year": 2023,
+    "week": "W15",
+    "effective_time": "2024-02-12T13:15:00+00:00",
+    "rankings": [
+        {
+            "id": "efba5350-79bc-47aa-a189-db177b95b491",
+            "name": "Huskies",
+            "market": "UConn",
+            "rank": 1,
+            "wins": 22,
+            "losses": 2,
+            "prev_rank": 1,
+            "points": 1509,
+            "fp_votes": 45
+        },
+        {
+            "id": "12d7f888-675b-459f-9099-a38f771d8a95",
+            "name": "Boilermakers",
+            "market": "Purdue",
+            "rank": 2,
+            "wins": 22,
+            "losses": 2,
+            "prev_rank": 2,
+            "points": 1480,
+            "fp_votes": 16
+        },
+        {
+            "id": "1f99a164-d593-4d81-85d5-0d7889d6f486",
+            "name": "Cougars",
+            "market": "Houston",
+            "rank": 3,
+            "wins": 21,
+            "losses": 3,
+            "prev_rank": 5,
+            "points": 1386
+        },
+        {
+            "id": "06f7c904-0ac7-4125-b0f4-f4871bb69057",
+            "name": "Golden Eagles",
+            "market": "Marquette",
+            "rank": 4,
+            "wins": 18,
+            "losses": 5,
+            "prev_rank": 7,
+            "points": 1273
+        },
+        {
+            "id": "9b166a3f-e64b-4825-bb6b-92c6f0418263",
+            "name": "Wildcats",
+            "market": "Arizona",
+            "rank": 5,
+            "wins": 19,
+            "losses": 5,
+            "prev_rank": 8,
+            "points": 1241
+        },
+        {
+            "id": "fae4855b-1b64-4b40-a632-9ed345e1e952",
+            "name": "Jayhawks",
+            "market": "Kansas",
+            "rank": 6,
+            "wins": 19,
+            "losses": 5,
+            "prev_rank": 4,
+            "points": 1227
+        },
+        {
+            "id": "e9ca48b2-00ba-41c0-a02b-6885a2da1ff1",
+            "name": "Tar Heels",
+            "market": "North Carolina",
+            "rank": 7,
+            "wins": 19,
+            "losses": 5,
+            "prev_rank": 3,
+            "points": 1216
+        },
+        {
+            "id": "b827dbdf-230f-4916-9703-3bb9004e26eb",
+            "name": "Volunteers",
+            "market": "Tennessee",
+            "rank": 8,
+            "wins": 17,
+            "losses": 6,
+            "prev_rank": 6,
+            "points": 1033
+        },
+        {
+            "id": "faeb1160-5d15-4f26-99fc-c441cf21fc7f",
+            "name": "Blue Devils",
+            "market": "Duke",
+            "rank": 9,
+            "wins": 18,
+            "losses": 5,
+            "prev_rank": 9,
+            "points": 1025
+        },
+        {
+            "id": "0e4258fa-3154-4c16-b693-adecab184c6c",
+            "name": "Cyclones",
+            "market": "Iowa State",
+            "rank": 10,
+            "wins": 18,
+            "losses": 5,
+            "prev_rank": 14,
+            "points": 969
+        },
+        {
+            "id": "1c7ec608-3b36-4cee-adac-9265e3792597",
+            "name": "Gamecocks",
+            "market": "South Carolina",
+            "rank": 11,
+            "wins": 21,
+            "losses": 3,
+            "prev_rank": 15,
+            "points": 921
+        },
+        {
+            "id": "db6e1cab-3fa3-4a93-a673-8b2a358ff4bf",
+            "name": "Bears",
+            "market": "Baylor",
+            "rank": 12,
+            "wins": 17,
+            "losses": 6,
+            "prev_rank": 13,
+            "points": 811
+        },
+        {
+            "id": "0c0608b3-f349-4f5e-9a10-7e6a744dd0d2",
+            "name": "Tigers",
+            "market": "Auburn",
+            "rank": 13,
+            "wins": 19,
+            "losses": 5,
+            "prev_rank": 12,
+            "points": 799
+        },
+        {
+            "id": "150148c2-ca8f-414f-8f41-d94a55d4a122",
+            "name": "Fighting Illini",
+            "market": "Illinois",
+            "rank": 14,
+            "wins": 17,
+            "losses": 6,
+            "prev_rank": 10,
+            "points": 728
+        },
+        {
+            "id": "c2104cdc-c83d-40d2-a3cd-df986e29f5d3",
+            "name": "Crimson Tide",
+            "market": "Alabama",
+            "rank": 15,
+            "wins": 17,
+            "losses": 7,
+            "prev_rank": 16,
+            "points": 618
+        },
+        {
+            "id": "632616c5-2dbb-4017-a449-c9dfc303f026",
+            "name": "Flyers",
+            "market": "Dayton",
+            "rank": 16,
+            "wins": 19,
+            "losses": 4,
+            "prev_rank": 18,
+            "points": 425
+        },
+        {
+            "id": "7d797407-623e-476d-b299-46de4275414d",
+            "name": "Bluejays",
+            "market": "Creighton",
+            "rank": 17,
+            "wins": 17,
+            "losses": 7,
+            "prev_rank": 19,
+            "points": 410
+        },
+        {
+            "id": "b18f34af-a7f1-4659-a2e5-fc11a31cd316",
+            "name": "Gaels",
+            "market": "Saint Mary's",
+            "rank": 18,
+            "wins": 20,
+            "losses": 6,
+            "points": 296
+        },
+        {
+            "id": "c31455b2-8a45-4248-aa8f-ce7eab1c6b02",
+            "name": "Cougars",
+            "market": "BYU",
+            "rank": 19,
+            "wins": 17,
+            "losses": 6,
+            "prev_rank": 21,
+            "points": 294
+        },
+        {
+            "id": "c7569eae-5b93-4197-b204-6f3a62146b25",
+            "name": "Badgers",
+            "market": "Wisconsin",
+            "rank": 20,
+            "wins": 16,
+            "losses": 8,
+            "prev_rank": 11,
+            "points": 249
+        },
+        {
+            "id": "56913910-87f7-4ad7-ae3b-5cd9fb218fd9",
+            "name": "Cavaliers",
+            "market": "Virginia",
+            "rank": 21,
+            "wins": 19,
+            "losses": 5,
+            "points": 218
+        },
+        {
+            "id": "2267a1f4-68f6-418b-aaf6-2aa0c4b291f1",
+            "name": "Wildcats",
+            "market": "Kentucky",
+            "rank": 22,
+            "wins": 16,
+            "losses": 7,
+            "prev_rank": 17,
+            "points": 217
+        },
+        {
+            "id": "2a997096-a381-469d-a7e9-9e031c8b071c",
+            "name": "Sycamores",
+            "market": "Indiana State",
+            "rank": 23,
+            "wins": 22,
+            "losses": 3,
+            "points": 209
+        },
+        {
+            "id": "c851131a-5ecd-4670-81bc-b40f4837dd65",
+            "name": "Owls",
+            "market": "Florida Atlantic",
+            "rank": 24,
+            "wins": 19,
+            "losses": 5,
+            "prev_rank": 20,
+            "points": 206
+        },
+        {
+            "id": "b2fda957-e15c-4fb2-8a13-6e58496f561e",
+            "name": "Sooners",
+            "market": "Oklahoma",
+            "rank": 25,
+            "wins": 18,
+            "losses": 6,
+            "points": 178
+        }
+    ],
+    "candidates": [
+        {
+            "id": "7672ff16-8436-47e6-8546-0fb5494ec7ee",
+            "name": "Aggies",
+            "market": "Utah State",
+            "wins": 20,
+            "losses": 4,
+            "votes": 160
+        },
+        {
+            "id": "1a470730-f328-4fb1-8bbf-36a069e4d6b2",
+            "name": "Rams",
+            "market": "Colorado State",
+            "wins": 19,
+            "losses": 5,
+            "votes": 145
+        },
+        {
+            "id": "f8c705b7-87d3-411a-9c8b-5124daab0469",
+            "name": "Red Raiders",
+            "market": "Texas Tech",
+            "wins": 17,
+            "losses": 6,
+            "votes": 111
+        },
+        {
+            "id": "e6914f16-ca37-4d2e-ba26-a425910283e2",
+            "name": "Aztecs",
+            "market": "San Diego State",
+            "wins": 18,
+            "losses": 6,
+            "votes": 84
+        },
+        {
+            "id": "2d4f0015-adb4-4877-8c15-4a6eed7eed03",
+            "name": "Cougars",
+            "market": "Washington State",
+            "wins": 18,
+            "losses": 6,
+            "votes": 82
+        },
+        {
+            "id": "62a73b4a-e281-4483-a1f8-f1160a18e456",
+            "name": "Wolf Pack",
+            "market": "Nevada",
+            "wins": 19,
+            "losses": 5,
+            "votes": 57
+        },
+        {
+            "id": "dcf5c2e7-c227-4c20-af26-715d5f859412",
+            "name": "Tigers",
+            "market": "Clemson",
+            "wins": 16,
+            "losses": 7,
+            "votes": 57
+        },
+        {
+            "id": "2f4d21f8-6d5f-48a5-abca-52a30583871a",
+            "name": "Bulldogs",
+            "market": "Gonzaga",
+            "wins": 18,
+            "losses": 6,
+            "votes": 50
+        },
+        {
+            "id": "1b1977ec-b32f-4ce3-95a4-d07bab4816cd",
+            "name": "Lobos",
+            "market": "New Mexico",
+            "wins": 19,
+            "losses": 5,
+            "votes": 27
+        },
+        {
+            "id": "912f8837-1d81-4ef9-a576-a21f271d4c64",
+            "name": "Gators",
+            "market": "Florida",
+            "wins": 16,
+            "losses": 7,
+            "votes": 19
+        },
+        {
+            "id": "a41d5a05-4c11-4171-a57e-e7a1ea325a6d",
+            "name": "Spartans",
+            "market": "Michigan State",
+            "wins": 15,
+            "losses": 9,
+            "votes": 17
+        },
+        {
+            "id": "ef184799-d79b-49d9-a662-991eaf4044cd",
+            "name": "Aggies",
+            "market": "Texas A&M",
+            "wins": 15,
+            "losses": 8,
+            "votes": 16
+        },
+        {
+            "id": "f7e6acc3-0778-4de5-940a-d88e20df1159",
+            "name": "Antelopes",
+            "market": "Grand Canyon",
+            "wins": 22,
+            "losses": 2,
+            "votes": 13
+        },
+        {
+            "id": "d7d668ec-edaa-4d6b-be25-2ebba4128643",
+            "name": "Rebels",
+            "market": "Ole Miss",
+            "wins": 18,
+            "losses": 5,
+            "votes": 12
+        },
+        {
+            "id": "f7fcbb6e-4a55-41ea-ba21-f763ed914467",
+            "name": "Horned Frogs",
+            "market": "TCU",
+            "wins": 16,
+            "losses": 7,
+            "votes": 10
+        },
+        {
+            "id": "6ed15092-2670-450a-99c2-61d861e87644",
+            "name": "Longhorns",
+            "market": "Texas",
+            "wins": 16,
+            "losses": 8,
+            "votes": 9
+        },
+        {
+            "id": "1551b3a0-6d10-4ffa-8dfa-73b56f004553",
+            "name": "Tigers",
+            "market": "Memphis",
+            "wins": 18,
+            "losses": 6,
+            "votes": 8
+        },
+        {
+            "id": "55af9c69-3675-4b9b-a882-96640b782fff",
+            "name": "Bulls",
+            "market": "South Florida",
+            "wins": 17,
+            "losses": 5,
+            "votes": 7
+        },
+        {
+            "id": "4b7dedc0-7b48-49a4-aad6-8a94a33274d2",
+            "name": "Wildcats",
+            "market": "Northwestern",
+            "wins": 17,
+            "losses": 7,
+            "votes": 2
+        },
+        {
+            "id": "c54279f9-3028-4663-893a-7d22482f8098",
+            "name": "Seahawks",
+            "market": "UNC Wilmington",
+            "wins": 18,
+            "losses": 6,
+            "votes": 1
+        }
+    ]
+}

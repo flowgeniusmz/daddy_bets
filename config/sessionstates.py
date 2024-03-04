@@ -62,4 +62,6 @@ def get_initial_session_states():
         st.session_state.new_row_files1 = {"Id": None, "Object": None, "Bytes": None, "Created At": None, "Name": None, "Purpose": None }
     if "new_row_tools" not in st.session_state:
         st.session_state.new_row_tools = {"Type": None}
+    if "input_object" not in st.session_state:
+        st.session_state.input_object = {"Sport": None, "BetTypes": None, "UserPrompt": None, "AdditionalInstructions": None}
  

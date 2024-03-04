@@ -1,0 +1,341 @@
+{
+    "league": {
+        "alias": "MLB",
+        "name": "Major League Baseball",
+        "id": "2fa448bc-fc17-4d3d-be03-e60e080fdc26"
+    },
+    "teams": [
+        {
+            "name": "Rays",
+            "market": "Tampa Bay",
+            "abbr": "TB",
+            "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+            "players": [
+                {
+                    "id": "13812850-d32a-4e0a-9132-a3db2272834d",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Shane",
+                    "last_name": "McClanahan",
+                    "preferred_name": "Shane",
+                    "jersey_number": "18",
+                    "injuries": [
+                        {
+                            "id": "22bc6dd7-a863-4aee-b967-88bc5c656f91",
+                            "comment": "The Tampa Bay Rays placed LHP Shane McClanahan on the 60-day injured list.",
+                            "desc": "Forearm",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pirates",
+            "market": "Pittsburgh",
+            "abbr": "PIT",
+            "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+            "players": [
+                {
+                    "id": "f7a9c3be-c466-4ada-9146-f1c5137b5436",
+                    "status": "D60",
+                    "position": "C",
+                    "primary_position": "C",
+                    "first_name": "Endy",
+                    "last_name": "Rodr\u00edguez",
+                    "preferred_name": "Endy",
+                    "jersey_number": "25",
+                    "injuries": [
+                        {
+                            "id": "3e7358b8-a8f5-4ba1-b9d4-a49b38a1b973",
+                            "comment": "The Pittsburgh Pirates placed C Endy Rodr\u00edguez on the 60-day injured list with an elbow injury.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                },
+                {
+                    "id": "a0c056de-bbc2-4370-a0d7-f503ddccc847",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Johan",
+                    "last_name": "Oviedo",
+                    "preferred_name": "Johan",
+                    "jersey_number": "24",
+                    "injuries": [
+                        {
+                            "id": "b2414cd5-f425-4091-9993-fb42e0828154",
+                            "comment": "The Pittsburgh Pirates placed RHP Johan Oviedo on the 60-day injured list with an elbow injury.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yankees",
+            "market": "New York",
+            "abbr": "NYY",
+            "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+            "players": [
+                {
+                    "id": "5e4eeae1-3af8-489b-a688-8d7fe196d6fd",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "RP",
+                    "first_name": "Scott",
+                    "last_name": "Effross",
+                    "preferred_name": "Scott",
+                    "jersey_number": "59",
+                    "injuries": [
+                        {
+                            "id": "46b3cd23-d955-4fa0-9674-9692edd743f9",
+                            "comment": "The New York Yankees placed RHP Scott Effross on the 60-day injured list with a back injury.",
+                            "desc": "Back",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                },
+                {
+                    "id": "c7130863-8c74-4834-b9b3-023543976918",
+                    "status": "D60",
+                    "position": "OF",
+                    "primary_position": "CF",
+                    "first_name": "Jasson",
+                    "last_name": "Dom\u00ednguez",
+                    "preferred_name": "Jasson",
+                    "jersey_number": "89",
+                    "injuries": [
+                        {
+                            "id": "be55a930-7d6e-4cc7-b4d2-8f968f511d30",
+                            "comment": "The New York Yankees placed OF Jasson Dom\u00ednguez on the 60-day injured list.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                },
+                {
+                    "id": "113b8d58-57db-473d-87cf-db4570f41d2b",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "RP",
+                    "first_name": "Lou",
+                    "last_name": "Trivino",
+                    "preferred_name": "Lou",
+                    "injuries": [
+                        {
+                            "id": "e0e7596a-55eb-4d3d-93d1-ba91aade8ac0",
+                            "comment": "The New York Yankees placed RHP Lou Trivino on the 60-day injured list.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-16",
+                            "update_date": "2024-02-16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dodgers",
+            "market": "Los Angeles",
+            "abbr": "LAD",
+            "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+            "players": [
+                {
+                    "id": "8c6572ee-d35f-4542-946a-1611e68395fe",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Dustin",
+                    "last_name": "May",
+                    "preferred_name": "Dustin",
+                    "jersey_number": "85",
+                    "injuries": [
+                        {
+                            "id": "5b11c48b-7c81-4e9e-9bbb-e1c0c2a4a9ab",
+                            "comment": "The Los Angeles Dodgers placed RHP Dustin May on the 60-day injured list.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-08",
+                            "update_date": "2024-02-08"
+                        }
+                    ]
+                },
+                {
+                    "id": "c144f063-3940-472c-b607-9e5359844431",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Anthony",
+                    "last_name": "Gonsolin",
+                    "preferred_name": "Tony",
+                    "jersey_number": "26",
+                    "injuries": [
+                        {
+                            "id": "c7ae5519-634a-44cb-b16b-255c78cd4e1e",
+                            "comment": "The Los Angeles Dodgers placed RHP Tony Gonsolin on the 60-day injured list.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-09",
+                            "update_date": "2024-02-09"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mets",
+            "market": "New York",
+            "abbr": "NYM",
+            "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+            "players": [
+                {
+                    "id": "48e04ea8-725f-4aec-b9c1-e0051eca6d07",
+                    "status": "D60",
+                    "position": "IF",
+                    "primary_position": "SS",
+                    "first_name": "Ronny",
+                    "last_name": "Mauricio",
+                    "preferred_name": "Ronny",
+                    "jersey_number": "10",
+                    "injuries": [
+                        {
+                            "id": "730e5e74-6007-4488-9d3e-f59828f8378d",
+                            "comment": "The New York Mets placed INF Ronny Mauricio on the 60-day injured list.",
+                            "desc": "Knee",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Athletics",
+            "market": "Oakland",
+            "abbr": "OAK",
+            "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+            "players": [
+                {
+                    "id": "5f586661-b5eb-4830-80fe-d2e7a8d78a95",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Kenneth",
+                    "last_name": "Waldichuk",
+                    "preferred_name": "Ken",
+                    "jersey_number": "64",
+                    "injuries": [
+                        {
+                            "id": "7862b24e-1d1b-4ee7-92ab-7b27c69e3ec6",
+                            "comment": "The Oakland Athletics placed LHP Ken Waldichuk on the 60-day injured list with an elbow injury.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Orioles",
+            "market": "Baltimore",
+            "abbr": "BAL",
+            "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+            "players": [
+                {
+                    "id": "f9ab5bbf-bb91-4a1a-9fe7-c8dd4eb9022f",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "RP",
+                    "first_name": "F\u00e9lix",
+                    "last_name": "Bautista",
+                    "preferred_name": "F\u00e9lix",
+                    "jersey_number": "74",
+                    "injuries": [
+                        {
+                            "id": "97c64a27-b8f5-4bcd-a96e-6e383bca4ffe",
+                            "comment": "The Baltimore Orioles placed RHP F\u00e9lix Bautista on the 60-day injured list with a UCL injury.",
+                            "desc": "UCL",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Royals",
+            "market": "Kansas City",
+            "abbr": "KC",
+            "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+            "players": [
+                {
+                    "id": "6281e4c9-20e9-4b39-9f21-165b54b1f2f7",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Kyle",
+                    "last_name": "Wright",
+                    "preferred_name": "Kyle",
+                    "jersey_number": "30",
+                    "injuries": [
+                        {
+                            "id": "a46f6089-9faf-4102-9bd9-bf0be2fc1264",
+                            "comment": "The Kansas City Royals placed RHP Kyle Wright on the 60-day injured list.",
+                            "desc": "Shoulder",
+                            "status": "D60",
+                            "start_date": "2024-02-17",
+                            "update_date": "2024-02-17"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Giants",
+            "market": "San Francisco",
+            "abbr": "SF",
+            "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+            "players": [
+                {
+                    "id": "9deda06b-1928-4c58-acf0-717538f576f4",
+                    "status": "D60",
+                    "position": "P",
+                    "primary_position": "SP",
+                    "first_name": "Robert",
+                    "last_name": "Ray",
+                    "preferred_name": "Robbie",
+                    "jersey_number": "23",
+                    "injuries": [
+                        {
+                            "id": "c1a6d9a8-da15-41d7-aaf6-0590558e656e",
+                            "comment": "The San Francisco Giants placed LHP Robbie Ray on the 60-day injured list.",
+                            "desc": "Elbow",
+                            "status": "D60",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-14"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "_comment": "Generation started @ 2024-02-17 21:49:08 UTC ended @ 2024-02-17 21:49:08 UTC"
+}

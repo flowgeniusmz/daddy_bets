@@ -9,3 +9,10 @@ ps.get_title(3)
 ps.display_background_image()
 # 2. Page Overview
 ps.get_overview(3)
+
+# 3. Page Warning
+
+st.info(
+    body="**IN PROGRESS: Actions Panel In Development:** The **Actions Panel** is currently under construction and unavailable. More information will be posted as it is available!",
+            icon="⚠️"
+)

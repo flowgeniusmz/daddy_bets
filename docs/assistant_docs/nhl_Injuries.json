@@ -1,0 +1,2066 @@
+{
+    "league": {
+        "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+        "name": "NHL",
+        "alias": "NHL"
+    },
+    "teams": [
+        {
+            "id": "4416091c-0f24-11e2-8525-18a905767e44",
+            "name": "Wild",
+            "market": "Minnesota",
+            "sr_id": "sr:team:3689",
+            "reference": "30",
+            "players": [
+                {
+                    "id": "42bde59f-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Jared Spurgeon",
+                    "first_name": "Jared",
+                    "last_name": "Spurgeon",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "46",
+                    "sr_id": "sr:player:146331",
+                    "reference": "8474716",
+                    "injuries": [
+                        {
+                            "id": "002b1670-d5a1-47bd-a8e5-2a7f8cb245d5",
+                            "start_date": "2024-01-03",
+                            "update_date": "2024-01-18",
+                            "comment": "Spurgeon will miss the remainder of the season due to injury according to the Minnesota Wild.",
+                            "desc": "Hip/Back",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "49c83f5a-6162-465b-891b-fec6a1305216",
+                    "full_name": "Sam Hentges",
+                    "first_name": "Sam",
+                    "last_name": "Hentges",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "54",
+                    "sr_id": "sr:player:1503099",
+                    "reference": "8481012",
+                    "injuries": [
+                        {
+                            "id": "127e6336-5eb5-49bb-a761-4a7338647257",
+                            "start_date": "2023-10-09",
+                            "update_date": "2023-10-09",
+                            "comment": "The Minnesota Wild placed F Sam Hentges on Injured Reserve.",
+                            "desc": "Undisclosed",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "4277414c-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Pat Maroon",
+                    "first_name": "Pat",
+                    "last_name": "Maroon",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "20",
+                    "sr_id": "sr:player:182321",
+                    "reference": "8474034",
+                    "injuries": [
+                        {
+                            "id": "5de29bf5-8cab-45ea-89dc-a4c801b8f897",
+                            "start_date": "2024-02-05",
+                            "update_date": "2024-02-09",
+                            "comment": "The Minnesota Wild placed F Pat Maroon on injured reserve. He's expected to be out 6 weeks.",
+                            "desc": "Back",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "436ad49d-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Marcus Foligno",
+                    "first_name": "Marcus",
+                    "last_name": "Foligno",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "17",
+                    "sr_id": "sr:player:225138",
+                    "reference": "8475220",
+                    "injuries": [
+                        {
+                            "id": "5ec417f9-0d2b-498e-9d56-f847680de491",
+                            "start_date": "2024-02-11",
+                            "update_date": "2024-02-12",
+                            "comment": "The Minnesota Wild placed F Marcus Foligno on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4418464d-0f24-11e2-8525-18a905767e44",
+            "name": "Panthers",
+            "market": "Florida",
+            "sr_id": "sr:team:3687",
+            "reference": "13",
+            "players": [
+                {
+                    "id": "adc2a2c9-a9d4-493d-a2ee-2a921809f255",
+                    "full_name": "William Lockwood",
+                    "first_name": "William",
+                    "last_name": "Lockwood",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "67",
+                    "sr_id": "sr:player:983693",
+                    "reference": "8479367",
+                    "injuries": [
+                        {
+                            "id": "03f3535d-b63a-46c9-ae85-2e3f613fe5d1",
+                            "start_date": "2024-02-08",
+                            "update_date": "2024-02-16",
+                            "comment": "Lockwood did not play in Thursday's (Feb. 15) game against Buffalo.",
+                            "desc": "Concussion",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "447fb3e7-2174-4db3-9dec-421728327cc4",
+                    "full_name": "Aaron Ekblad",
+                    "first_name": "Aaron",
+                    "last_name": "Ekblad",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:753950",
+                    "reference": "8477932",
+                    "injuries": [
+                        {
+                            "id": "f1c9ca25-2e6a-4925-9a31-9bda9676bfa3",
+                            "start_date": "2024-02-17",
+                            "update_date": "2024-02-18",
+                            "comment": "Florida Panthers' Aaron Ekblad will not play (lower body) on Saturady versus the Tampa Bay Lightning, according to team.",
+                            "desc": "Lower body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4417b7d7-0f24-11e2-8525-18a905767e44",
+            "name": "Penguins",
+            "market": "Pittsburgh",
+            "sr_id": "sr:team:3697",
+            "reference": "5",
+            "players": [
+                {
+                    "id": "1130edda-c071-4ae6-9de5-1e35525c72bd",
+                    "full_name": "Jake Guentzel",
+                    "first_name": "Jake",
+                    "last_name": "Guentzel",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "59",
+                    "sr_id": "sr:player:976717",
+                    "reference": "8477404",
+                    "injuries": [
+                        {
+                            "id": "078d9ce6-0fdd-4c24-8672-4dfe3bef6ecd",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-15",
+                            "comment": "The Penguins announced that Guentzel is expected to miss up to four weeks.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "8c8c5fd6-272e-4c17-ae32-2e3d8e5a1aa8",
+                    "full_name": "Noel Acciari",
+                    "first_name": "Noel",
+                    "last_name": "Acciari",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "55",
+                    "sr_id": "sr:player:895794",
+                    "reference": "8478569",
+                    "injuries": [
+                        {
+                            "id": "1c40bff1-d5f6-4801-8f25-aae52af56af6",
+                            "start_date": "2024-02-06",
+                            "update_date": "2024-02-13",
+                            "comment": "The Pittsburgh Penguins placed F Noel Acciari on injured reserve.",
+                            "desc": "Concussion",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "72dc5b90-88c6-41df-bdea-6b892fb60281",
+                    "full_name": "Jansen Harkins",
+                    "first_name": "Jansen",
+                    "last_name": "Harkins",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "43",
+                    "sr_id": "sr:player:852956",
+                    "reference": "8478424",
+                    "injuries": [
+                        {
+                            "id": "48ff4a74-173e-45f2-b305-5d7924535661",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-12",
+                            "comment": "The Pittsburgh Penguins placed F Jansen Harkins on Injured Reserve.",
+                            "desc": "Concussion",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "dedda775-c1af-4db3-8db5-43df9b22bb63",
+                    "full_name": "Matt Nieto",
+                    "first_name": "Matt",
+                    "last_name": "Nieto",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "83",
+                    "sr_id": "sr:player:354820",
+                    "reference": "8476442",
+                    "injuries": [
+                        {
+                            "id": "e609169a-f3f1-4bcf-adff-c565bd06e762",
+                            "start_date": "2023-12-02",
+                            "update_date": "2024-01-04",
+                            "comment": "Nieto underwent successful laparoscopic surgery on his right knee. Expected recovery is six to eight weeks.",
+                            "desc": "Knee",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4416272f-0f24-11e2-8525-18a905767e44",
+            "name": "Blackhawks",
+            "market": "Chicago",
+            "sr_id": "sr:team:3681",
+            "reference": "16",
+            "players": [
+                {
+                    "id": "d5bc6dd3-62d7-495d-af1b-41fe17d0d025",
+                    "full_name": "Luke Philp",
+                    "first_name": "Luke",
+                    "last_name": "Philp",
+                    "position": "F",
+                    "primary_position": "C",
+                    "sr_id": "sr:player:1051367",
+                    "reference": "8478224",
+                    "injuries": [
+                        {
+                            "id": "07e414e2-d874-42ec-b7c2-9d95d45b79fa",
+                            "start_date": "2024-02-16",
+                            "update_date": "2024-02-16",
+                            "comment": "The Chicago Blackhawks placed F Luke Philp on Injured Reserve.",
+                            "desc": "Undisclosed",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "38fc556f-e5eb-4b44-847b-1827e107f2e6",
+                    "full_name": "Anthony Beauvillier",
+                    "first_name": "Anthony",
+                    "last_name": "Beauvillier",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "91",
+                    "sr_id": "sr:player:853528",
+                    "reference": "8478463",
+                    "injuries": [
+                        {
+                            "id": "2d34a23a-b9b9-4863-839a-ee4e7892f4c1",
+                            "start_date": "2024-01-02",
+                            "update_date": "2024-01-03",
+                            "comment": "The Chicago Blackhawks placed F Anthony Beauvillier on injured reserve.",
+                            "desc": "Wrist",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "42b1269a-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Taylor Hall",
+                    "first_name": "Taylor",
+                    "last_name": "Hall",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "71",
+                    "sr_id": "sr:player:134989",
+                    "reference": "8475791",
+                    "injuries": [
+                        {
+                            "id": "33fd457b-8860-4eda-a08d-33fd5de8e65b",
+                            "start_date": "2023-11-18",
+                            "update_date": "2023-11-30",
+                            "comment": "The Blackhawks announced that Hall underwent successful surgery on his right ACL.",
+                            "desc": "Knee",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "e80e9320-e1d3-48e7-9821-16941d12179f",
+                    "full_name": "Andreas Athanasiou",
+                    "first_name": "Andreas",
+                    "last_name": "Athanasiou",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "89",
+                    "sr_id": "sr:player:904482",
+                    "reference": "8476960",
+                    "injuries": [
+                        {
+                            "id": "8068be56-9869-4c96-8249-142c3dd2c15d",
+                            "start_date": "2023-11-09",
+                            "update_date": "2023-11-23",
+                            "comment": "The Chicago Blackhawks placed F Andreas Athanasiou on injured reserve.",
+                            "desc": "Groin",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "5aa01db9-9662-4a89-800e-7d3663147c30",
+                    "full_name": "Connor Murphy",
+                    "first_name": "Connor",
+                    "last_name": "Murphy",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:364736",
+                    "reference": "8476473",
+                    "injuries": [
+                        {
+                            "id": "9d18cbf1-ef53-412f-a945-7e49fa632e9e",
+                            "start_date": "2024-01-16",
+                            "update_date": "2024-01-22",
+                            "comment": "The Chicago Blackhawks placed D Connor Murphy on the Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "36d924b9-5b3e-4dd9-aeb5-a645201801f3",
+                    "full_name": "Nikita Zaitsev",
+                    "first_name": "Nikita",
+                    "last_name": "Zaitsev",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "22",
+                    "sr_id": "sr:player:87562",
+                    "reference": "8479458",
+                    "injuries": [
+                        {
+                            "id": "f0cf251b-606e-40a9-af09-eeaddf5e6fac",
+                            "start_date": "2024-01-16",
+                            "update_date": "2024-01-17",
+                            "comment": "The Chicago Blackhawks placed D Nikita Zaitsev on injured reserve.",
+                            "desc": "Knee",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44174b0c-0f24-11e2-8525-18a905767e44",
+            "name": "Devils",
+            "market": "New Jersey",
+            "sr_id": "sr:team:3704",
+            "reference": "1",
+            "players": [
+                {
+                    "id": "42ee4e8e-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Dougie Hamilton",
+                    "first_name": "Dougie",
+                    "last_name": "Hamilton",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "7",
+                    "sr_id": "sr:player:308022",
+                    "reference": "8476462",
+                    "injuries": [
+                        {
+                            "id": "085574b0-fce6-4df3-8e8b-6f7920a9217f",
+                            "start_date": "2023-11-28",
+                            "update_date": "2023-12-01",
+                            "comment": "The New Jersey Devils placed D Dougie Hamilton on Injured Reserve.",
+                            "desc": "Pectoral",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "b2b1b4c3-fe22-4bf9-beb7-49c716b278de",
+                    "full_name": "Jonas Siegenthaler",
+                    "first_name": "Jonas",
+                    "last_name": "Siegenthaler",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "71",
+                    "sr_id": "sr:player:601678",
+                    "reference": "8478399",
+                    "injuries": [
+                        {
+                            "id": "467cc562-1ac2-497e-ab77-2596e303dcee",
+                            "start_date": "2024-01-06",
+                            "update_date": "2024-01-09",
+                            "comment": "The New Jersey Devils placed D Jonas Siegenthaler on injured reserve.",
+                            "desc": "Foot",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "4436c7b3-4b38-4f13-ba0e-07d68fcb7056",
+                    "full_name": "Vitek Vanecek",
+                    "first_name": "Vitek",
+                    "last_name": "Vanecek",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "41",
+                    "sr_id": "sr:player:604544",
+                    "reference": "8477970",
+                    "injuries": [
+                        {
+                            "id": "8f1ae44e-2ea2-4a49-ade9-9de9219bca90",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-16",
+                            "comment": "Vanecek did not play in Thursday's (Feb. 15) game against Los Angeles.",
+                            "desc": "Lower Body/Illness",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "441730a9-0f24-11e2-8525-18a905767e44",
+            "name": "Maple Leafs",
+            "market": "Toronto",
+            "sr_id": "sr:team:3693",
+            "reference": "10",
+            "players": [
+                {
+                    "id": "4325e70e-0f24-11e2-8525-18a905767e44",
+                    "full_name": "John Tavares",
+                    "first_name": "John",
+                    "last_name": "Tavares",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "91",
+                    "sr_id": "sr:player:93797",
+                    "reference": "8475166",
+                    "injuries": [
+                        {
+                            "id": "0e02de8e-6f4f-43fc-a98b-8d03d9b9bd5c",
+                            "start_date": "2024-02-17",
+                            "update_date": "2024-02-18",
+                            "comment": "Toronto Maple Leafs' John Tavares (undisclosed) will be out on Saturday versus the Anaheim Ducks, per David Alter of The Hockey News. ",
+                            "desc": "Undisclosed",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "24a3f958-3b39-4ea8-b390-0e6c9e72bf91",
+                    "full_name": "Conor Timmins",
+                    "first_name": "Conor",
+                    "last_name": "Timmins",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "25",
+                    "sr_id": "sr:player:1117323",
+                    "reference": "8479982",
+                    "injuries": [
+                        {
+                            "id": "69edc1d1-a980-4841-acd6-98639ff93941",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-13",
+                            "comment": "The Toronto Maple Leafs placed D Conor Timmins on Injured Reserve.",
+                            "desc": "Illness",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "da5988c5-434e-4e7e-b14f-bac942e88c15",
+                    "full_name": "John Klingberg",
+                    "first_name": "John",
+                    "last_name": "Klingberg",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "3",
+                    "sr_id": "sr:player:142084",
+                    "reference": "8475906",
+                    "injuries": [
+                        {
+                            "id": "6b3c8aa2-615d-4a43-ba1c-a328e4e2aefe",
+                            "start_date": "2023-11-17",
+                            "update_date": "2023-12-06",
+                            "comment": "Maple Leafs GM Brad Treliving said Klingberg will undergo surgery.",
+                            "desc": "Hip",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "3680b71f-575d-4eb9-95c6-4fb672b2672a",
+                    "full_name": "Matt Murray",
+                    "first_name": "Matt",
+                    "last_name": "Murray",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "30",
+                    "sr_id": "sr:player:904022",
+                    "reference": "8476899",
+                    "injuries": [
+                        {
+                            "id": "76a58250-9eac-4af2-a1be-4055c68c37cd",
+                            "start_date": "2023-07-26",
+                            "update_date": "2023-10-09",
+                            "comment": "The Maple Leafs announced that Murray underwent surgery and is expected to miss a minimum of 6-8 months.",
+                            "desc": "Hip",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "85efc3a4-760a-4b24-bbcf-3757f512666b",
+                    "full_name": "Joseph Woll",
+                    "first_name": "Joseph",
+                    "last_name": "Woll",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "60",
+                    "sr_id": "sr:player:984121",
+                    "reference": "8479361",
+                    "injuries": [
+                        {
+                            "id": "8769453f-4b3a-4d48-b014-6c1d831e0bc8",
+                            "start_date": "2023-12-07",
+                            "update_date": "2023-12-09",
+                            "comment": "The Toronto Maple Leafs placed G Joseph Woll on Injured Reserve.",
+                            "desc": "Ankle",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "42845d16-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Martin Jones",
+                    "first_name": "Martin",
+                    "last_name": "Jones",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "31",
+                    "sr_id": "sr:player:370118",
+                    "reference": "8474889",
+                    "injuries": [
+                        {
+                            "id": "902a067b-a6f4-433c-af4b-3b5581a3f1b3",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-16",
+                            "comment": "Jones did not play in Thursday's (Feb. 15) game against Philadelphia.",
+                            "desc": "Undisclosed",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "f503a0cb-dda7-4e33-bcab-cbf968daba2a",
+                    "full_name": "Calle Jarnkrok",
+                    "first_name": "Calle",
+                    "last_name": "Jarnkrok",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "19",
+                    "sr_id": "sr:player:104787",
+                    "reference": "8475714",
+                    "injuries": [
+                        {
+                            "id": "e323aaf8-0e22-408b-9e4b-45483e94df3a",
+                            "start_date": "2024-01-27",
+                            "update_date": "2024-02-04",
+                            "comment": "The Toronto Maple Leafs placed F Calle Jarnkrok on Injured Reserve.",
+                            "desc": "Knuckle",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "428362f8-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Jake Muzzin",
+                    "first_name": "Jake",
+                    "last_name": "Muzzin",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "8",
+                    "sr_id": "sr:player:138237",
+                    "reference": "8474162",
+                    "injuries": [
+                        {
+                            "id": "f66bcd5d-37c9-419a-b934-2d6fe202ccce",
+                            "start_date": "2023-10-09",
+                            "update_date": "2023-10-09",
+                            "comment": "The Toronto Maple Leafs placed D Jake Muzzin on Injured Reserve.",
+                            "desc": "Back",
+                            "status": "Out For Season"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+            "name": "Canucks",
+            "market": "Vancouver",
+            "sr_id": "sr:team:3692",
+            "reference": "23",
+            "players": [
+                {
+                    "id": "9373ac04-4a51-4c5a-8c7f-98415c665d0a",
+                    "full_name": "Carson Soucy",
+                    "first_name": "Carson",
+                    "last_name": "Soucy",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "7",
+                    "sr_id": "sr:player:1215166",
+                    "reference": "8477369",
+                    "injuries": [
+                        {
+                            "id": "17728da6-bfad-42eb-884c-c31bba64da09",
+                            "start_date": "2024-01-20",
+                            "update_date": "2024-02-12",
+                            "comment": "The Vancouver Canucks placed D Carson Soucy on Injured Reserve.",
+                            "desc": "Hand",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "c7011ea7-be7d-4d96-8a1e-b789263f4901",
+                    "full_name": "Dakota Joshua",
+                    "first_name": "Dakota",
+                    "last_name": "Joshua",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "81",
+                    "sr_id": "sr:player:1214596",
+                    "reference": "8478057",
+                    "injuries": [
+                        {
+                            "id": "6619d735-cea1-4325-939c-c2bcf427aa3a",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-16",
+                            "comment": "Joshua is week-to-week with a hand injury, per Coach Rich Tocchet.",
+                            "desc": "Hand",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "209f24ff-34f2-413e-bd93-6c85596362f2",
+                    "full_name": "Guillaume Brisebois",
+                    "first_name": "Guillaume",
+                    "last_name": "Brisebois",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "55",
+                    "sr_id": "sr:player:1049571",
+                    "reference": "8478465",
+                    "injuries": [
+                        {
+                            "id": "70e0eb00-1209-49b3-8d41-8639c414288c",
+                            "start_date": "2023-10-13",
+                            "update_date": "2023-10-17",
+                            "comment": "The Vancouver Canucks announced that Brisebois was placed on long-term injured reserve.",
+                            "desc": "Upper-Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "1bd8d308-d6a1-4370-b1c4-b9832fc3cbc0",
+                    "full_name": "Tucker Poolman",
+                    "first_name": "Tucker",
+                    "last_name": "Poolman",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:1124149",
+                    "reference": "8477359",
+                    "injuries": [
+                        {
+                            "id": "f9f4a69a-4045-4d7c-9b9a-9ca5b47e704a",
+                            "start_date": "2023-10-09",
+                            "update_date": "2023-10-09",
+                            "comment": "The Vancouver Canucks placed D Tucker Poolman on Injured Reserve.",
+                            "desc": "Head",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4417d3cb-0f24-11e2-8525-18a905767e44",
+            "name": "Lightning",
+            "market": "Tampa Bay",
+            "sr_id": "sr:team:3694",
+            "reference": "14",
+            "players": [
+                {
+                    "id": "2913c02c-f4bf-4ad4-ba88-c3380e15e4ae",
+                    "full_name": "Tanner Jeannot",
+                    "first_name": "Tanner",
+                    "last_name": "Jeannot",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "84",
+                    "sr_id": "sr:player:1050935",
+                    "reference": "8479661",
+                    "injuries": [
+                        {
+                            "id": "23178d40-928b-4946-9b9a-a6c359839726",
+                            "start_date": "2024-02-15",
+                            "update_date": "2024-02-16",
+                            "comment": "Jeannot is OUT for Saturday's (Feb. 17) game against Florida.",
+                            "desc": "Lower body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "a1019d67-fb85-43e6-87cf-4b964489a5f3",
+                    "full_name": "Nicholas Paul",
+                    "first_name": "Nicholas",
+                    "last_name": "Paul",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "20",
+                    "sr_id": "sr:player:956112",
+                    "reference": "8477426",
+                    "injuries": [
+                        {
+                            "id": "855b3b6e-dbb1-4115-8cf6-bffe93a85def",
+                            "start_date": "2024-02-16",
+                            "update_date": "2024-02-16",
+                            "comment": "Coach Cooper said Paul doesn't look like he will play Saturday (Feb. 17) against Florida.",
+                            "desc": "Undisclosed",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "a82f9092-8190-45da-aba6-0d19cad1ed83",
+                    "full_name": "Mikhail Sergachev",
+                    "first_name": "Mikhail",
+                    "last_name": "Sergachev",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "98",
+                    "sr_id": "sr:player:983675",
+                    "reference": "8479410",
+                    "injuries": [
+                        {
+                            "id": "f2afd4b7-3775-47f2-bd93-a855f26284b5",
+                            "start_date": "2024-02-07",
+                            "update_date": "2024-02-09",
+                            "comment": "The Tampa Bay Lightning placed D Mikhail Sergachev on the Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "441713b7-0f24-11e2-8525-18a905767e44",
+            "name": "Canadiens",
+            "market": "Montreal",
+            "sr_id": "sr:team:3690",
+            "reference": "8",
+            "players": [
+                {
+                    "id": "74702ea1-5ba7-4d04-b9d6-164232a30dc7",
+                    "full_name": "Kirby Dach",
+                    "first_name": "Kirby",
+                    "last_name": "Dach",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "77",
+                    "sr_id": "sr:player:1650133",
+                    "reference": "8481523",
+                    "injuries": [
+                        {
+                            "id": "2798afee-161f-440f-9cd5-a0a4149e9b32",
+                            "start_date": "2023-10-14",
+                            "update_date": "2023-10-31",
+                            "comment": "Canadiens GM Kent Hughes announced that Dach underwent successful surgery and is expected to ready for the start of the 2024-25 season.",
+                            "desc": "Knee",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "92ed5cd9-d877-4508-b81a-ad01a4d3010b",
+                    "full_name": "Christian Dvorak",
+                    "first_name": "Christian",
+                    "last_name": "Dvorak",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "28",
+                    "sr_id": "sr:player:905428",
+                    "reference": "8477989",
+                    "injuries": [
+                        {
+                            "id": "4a0ae1a9-b4f3-4277-aa1b-2bec55a0a03f",
+                            "start_date": "2024-01-04",
+                            "update_date": "2024-01-05",
+                            "comment": "The Montreal Canadiens placed F Christian Dvorak on Injured Reserve.",
+                            "desc": "Pectoral",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "12d761d1-96e1-4647-9fe7-3ed44548c833",
+                    "full_name": "Jordan Harris",
+                    "first_name": "Jordan",
+                    "last_name": "Harris",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "54",
+                    "sr_id": "sr:player:1402287",
+                    "reference": "8480887",
+                    "injuries": [
+                        {
+                            "id": "8db3a1cf-7e70-4189-94d8-fcf1fbd1bd95",
+                            "start_date": "2024-02-11",
+                            "update_date": "2024-02-16",
+                            "comment": "Harris did not play in Thursday's (Feb. 15) game against the Rangers.",
+                            "desc": "Upper Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "86bf301f-02f3-4854-8ee1-2662aa537521",
+                    "full_name": "Rafael Harvey-Pinard",
+                    "first_name": "Rafael",
+                    "last_name": "Harvey-Pinard",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "49",
+                    "sr_id": "sr:player:1596762",
+                    "reference": "8481093",
+                    "injuries": [
+                        {
+                            "id": "f950b0d5-9881-4fac-9825-33928c809add",
+                            "start_date": "2024-02-10",
+                            "update_date": "2024-02-11",
+                            "comment": "The Montreal Canadiens announced that F Rafael Harvey-Pinard will miss 4-6 weeks with a lower-body injury.",
+                            "desc": "Lower-Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44153da1-0f24-11e2-8525-18a905767e44",
+            "name": "Coyotes",
+            "market": "Arizona",
+            "sr_id": "sr:team:3698",
+            "reference": "53",
+            "players": [
+                {
+                    "id": "319390d8-f13f-4b19-b5a2-7226b0ceef3b",
+                    "full_name": "Troy Stecher",
+                    "first_name": "Troy",
+                    "last_name": "Stecher",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "51",
+                    "sr_id": "sr:player:983447",
+                    "reference": "8479442",
+                    "injuries": [
+                        {
+                            "id": "31060d45-5331-4c93-9ee4-ff712cd656c4",
+                            "start_date": "2024-01-22",
+                            "update_date": "2024-01-23",
+                            "comment": "The Arizona Coyotes placed D Troy Stecher on injured reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "e8ac699d-9b5f-4893-9a48-a4ae0f06bcd2",
+                    "full_name": "Travis Boyd",
+                    "first_name": "Travis",
+                    "last_name": "Boyd",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "72",
+                    "sr_id": "sr:player:1056663",
+                    "reference": "8476329",
+                    "injuries": [
+                        {
+                            "id": "aa1b2ad9-9463-4154-b4e3-11711749e8f2",
+                            "start_date": "2023-12-04",
+                            "update_date": "2023-12-18",
+                            "comment": "Boyd is expected to miss the rest of the season according to Craig Morgan of PHNX Sports.",
+                            "desc": "Pectoral",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "439d6194-0240-47f0-aead-9a74bf971824",
+                    "full_name": "Connor Ingram",
+                    "first_name": "Connor",
+                    "last_name": "Ingram",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "39",
+                    "sr_id": "sr:player:904720",
+                    "reference": "8478971",
+                    "injuries": [
+                        {
+                            "id": "c8f54d79-caf4-4497-a809-cc7375e4e0aa",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-16",
+                            "comment": "Ingram is expected to miss the next 7-10 days after leaving Wednesday's (Feb. 14) game early.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "6a4577cd-013b-4d4c-b35a-87f581a0f98e",
+                    "full_name": "Liam O'Brien",
+                    "first_name": "Liam",
+                    "last_name": "O'Brien",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "38",
+                    "sr_id": "sr:player:609254",
+                    "reference": "8477070",
+                    "injuries": [
+                        {
+                            "id": "f892eb7d-7256-4f80-a083-b60cb75ece35",
+                            "start_date": "2024-02-14",
+                            "update_date": "2024-02-16",
+                            "comment": "The Arizona Coyotes placed F Liam O'Brien on Injured Reserve.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44151f7a-0f24-11e2-8525-18a905767e44",
+            "name": "Kings",
+            "market": "Los Angeles",
+            "sr_id": "sr:team:3688",
+            "reference": "26",
+            "players": [
+                {
+                    "id": "0a1a1d3a-7118-4d30-a2bd-a2f95822d22c",
+                    "full_name": "Pheonix Copley",
+                    "first_name": "Pheonix",
+                    "last_name": "Copley",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "29",
+                    "sr_id": "sr:player:791897",
+                    "reference": "8477831",
+                    "injuries": [
+                        {
+                            "id": "33a12b66-3e5e-481e-a12e-2a8d797675cd",
+                            "start_date": "2023-12-15",
+                            "update_date": "2024-01-06",
+                            "comment": "The Kings announced that Copley underwent surgery for a torn ACL and is out for the season.",
+                            "desc": "Knee",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "5b0377bd-412a-44aa-8b8d-8e8eabeb290e",
+                    "full_name": "Carl Grundstrom",
+                    "first_name": "Carl",
+                    "last_name": "Grundstrom",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "91",
+                    "sr_id": "sr:player:774887",
+                    "reference": "8479336",
+                    "injuries": [
+                        {
+                            "id": "860fdff4-0db9-4881-afce-1fdcf131d962",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-14",
+                            "comment": "The Los Angeles Kings placed F Carl Grundstrom on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "070ff077-e59b-4135-b060-352ee716bc7e",
+                    "full_name": "Blake Lizotte",
+                    "first_name": "Blake",
+                    "last_name": "Lizotte",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "46",
+                    "sr_id": "sr:player:1726708",
+                    "reference": "8481481",
+                    "injuries": [
+                        {
+                            "id": "c88faf5a-1072-4990-8803-1128b8caf856",
+                            "start_date": "2024-01-18",
+                            "update_date": "2024-01-19",
+                            "comment": "The Los Angeles Kings placed F Blake Lizotte on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44179d47-0f24-11e2-8525-18a905767e44",
+            "name": "Flyers",
+            "market": "Philadelphia",
+            "sr_id": "sr:team:3699",
+            "reference": "4",
+            "players": [
+                {
+                    "id": "0a56cb1f-c5eb-45ea-bd4b-393b33dd1ae3",
+                    "full_name": "Rasmus Ristolainen",
+                    "first_name": "Rasmus",
+                    "last_name": "Ristolainen",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "55",
+                    "sr_id": "sr:player:179401",
+                    "reference": "8477499",
+                    "injuries": [
+                        {
+                            "id": "342fb820-d0a7-41cc-a8b8-adbb21df25e8",
+                            "start_date": "2024-02-11",
+                            "update_date": "2024-02-14",
+                            "comment": "Ristolainen will undergo a procedure in 2-3 weeks and will be re-evaluated at that point, Kevin Kurz of The Athletic reports.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "20b015a3-fc59-475f-a641-999da54d6b77",
+                    "full_name": "Ryan Ellis",
+                    "first_name": "Ryan",
+                    "last_name": "Ellis",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "94",
+                    "sr_id": "sr:player:184519",
+                    "reference": "8475176",
+                    "injuries": [
+                        {
+                            "id": "63b3a192-e9b2-476a-95e8-c9e2b73fc041",
+                            "start_date": "2023-10-11",
+                            "update_date": "2023-10-24",
+                            "comment": "The Philadelphia Flyers placed D Ryan Ellis on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "344733e3-9173-4945-81cd-857dad5e227c",
+                    "full_name": "Tyson Foerster",
+                    "first_name": "Tyson",
+                    "last_name": "Foerster",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "71",
+                    "sr_id": "sr:player:2072747",
+                    "reference": "8482159",
+                    "injuries": [
+                        {
+                            "id": "8181926e-e1cf-4e6c-9f7c-6b155b24a71a",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-14",
+                            "comment": "Foerster is expected to miss a few more days, the Flyers report Wednesday (Feb. 14).",
+                            "desc": "Lower Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44157522-0f24-11e2-8525-18a905767e44",
+            "name": "Stars",
+            "market": "Dallas",
+            "sr_id": "sr:team:3684",
+            "reference": "25",
+            "players": [
+                {
+                    "id": "de2fe071-7f09-491f-9f0f-e8cedd2d9436",
+                    "full_name": "Evgenii Dadonov",
+                    "first_name": "Evgenii",
+                    "last_name": "Dadonov",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "63",
+                    "sr_id": "sr:player:143877",
+                    "reference": "8474149",
+                    "injuries": [
+                        {
+                            "id": "36daa1cd-6707-4806-968f-db0b9b5fcc09",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-14",
+                            "comment": "The Dallas Stars placed F Evgenii Dadonov on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "db029f9d-5dcc-4af6-9240-656bd1559e07",
+                    "full_name": "Nils Lundkvist",
+                    "first_name": "Nils",
+                    "last_name": "Lundkvist",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:1343232",
+                    "reference": "8480878",
+                    "injuries": [
+                        {
+                            "id": "b632d509-5b47-4fc5-bf3c-848ec6918d19",
+                            "start_date": "2024-02-15",
+                            "update_date": "2024-02-16",
+                            "comment": "Lundkvist is undergoing further evaluation for concussion symptoms, Stars radio analyst Bruce LeVine reports.",
+                            "desc": "Upper-Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "441862de-0f24-11e2-8525-18a905767e44",
+            "name": "Ducks",
+            "market": "Anaheim",
+            "sr_id": "sr:team:3675",
+            "reference": "24",
+            "players": [
+                {
+                    "id": "468c9cd9-782e-40e1-a7da-9fe91acdafd9",
+                    "full_name": "John Gibson",
+                    "first_name": "John",
+                    "last_name": "Gibson",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "36",
+                    "sr_id": "sr:player:326123",
+                    "reference": "8476434",
+                    "injuries": [
+                        {
+                            "id": "3b743738-0f78-4ee2-81cc-f840ac3a57eb",
+                            "start_date": "2024-02-15",
+                            "update_date": "2024-02-15",
+                            "comment": "The Ducks announced that Gibson left Thursday's (Feb. 15) game with an upper-body injury according to Alexis Downie ",
+                            "desc": "Upper-Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "7c8b45f3-deaf-41c4-939f-2d6e86b22bd3",
+                    "full_name": "Trevor Zegras",
+                    "first_name": "Trevor",
+                    "last_name": "Zegras",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:1650171",
+                    "reference": "8481533",
+                    "injuries": [
+                        {
+                            "id": "dff4dba4-4218-495f-841a-9af280bb147f",
+                            "start_date": "2024-01-09",
+                            "update_date": "2024-01-11",
+                            "comment": "Zegras suffered a broken ankle and will have surgery in the near future. He is expected to miss 6-8 weeks.",
+                            "desc": "Ankle",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4417eede-0f24-11e2-8525-18a905767e44",
+            "name": "Capitals",
+            "market": "Washington",
+            "sr_id": "sr:team:3691",
+            "reference": "15",
+            "players": [
+                {
+                    "id": "434b2df5-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Nicklas Backstrom",
+                    "first_name": "Nicklas",
+                    "last_name": "Backstrom",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "19",
+                    "sr_id": "sr:player:29663",
+                    "reference": "8473563",
+                    "injuries": [
+                        {
+                            "id": "4e3f9330-3002-47ce-a3cc-6aea66c57bbf",
+                            "start_date": "2023-11-01",
+                            "update_date": "2023-11-08",
+                            "comment": "The Washington Capitals placed F Nicklas Backstrom on Injured Reserve.",
+                            "desc": "Hip",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "441660ea-0f24-11e2-8525-18a905767e44",
+            "name": "Blues",
+            "market": "St. Louis",
+            "sr_id": "sr:team:3695",
+            "reference": "19",
+            "players": [
+                {
+                    "id": "bd8689f2-2ddf-46b3-ad9b-7ed119336ba7",
+                    "full_name": "Scott Perunovich",
+                    "first_name": "Scott",
+                    "last_name": "Perunovich",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "48",
+                    "sr_id": "sr:player:1281246",
+                    "reference": "8481059",
+                    "injuries": [
+                        {
+                            "id": "4fbbc3a2-b839-4db4-85e3-246b80e96c53",
+                            "start_date": "2024-01-28",
+                            "update_date": "2024-02-09",
+                            "comment": "Perunovich has been labeled week-to-week by coach Drew Bannister on Thursday, Matthew DeFranks of the St. Louis Post-Dispatch reports.",
+                            "desc": "Lower body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "435e0b97-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Justin Faulk",
+                    "first_name": "Justin",
+                    "last_name": "Faulk",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "72",
+                    "sr_id": "sr:player:182283",
+                    "reference": "8475753",
+                    "injuries": [
+                        {
+                            "id": "bec6b14f-4dc8-421c-b517-75067fb616da",
+                            "start_date": "2024-01-24",
+                            "update_date": "2024-02-08",
+                            "comment": "The St. Louis Blues placed D Justin Faulk on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4416ba1a-0f24-11e2-8525-18a905767e44",
+            "name": "Bruins",
+            "market": "Boston",
+            "sr_id": "sr:team:3677",
+            "reference": "6",
+            "players": [
+                {
+                    "id": "42eb57bd-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Milan Lucic",
+                    "first_name": "Milan",
+                    "last_name": "Lucic",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "17",
+                    "sr_id": "sr:player:30459",
+                    "reference": "8473473",
+                    "injuries": [
+                        {
+                            "id": "509190e6-73c8-409a-95a1-d08b52fd751f",
+                            "start_date": "2023-11-21",
+                            "update_date": "2023-11-21",
+                            "comment": "Lucic will be entering the NHL/NHLPA Player Assistance Program while he remains on indefinite leave.",
+                            "desc": "Personal",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "26e4b065-15ed-459f-b532-631d34f678a0",
+                    "full_name": "Matthew Poitras",
+                    "first_name": "Matthew",
+                    "last_name": "Poitras",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "51",
+                    "sr_id": "sr:player:2322775",
+                    "reference": "8483505",
+                    "injuries": [
+                        {
+                            "id": "dd780ee3-0bc6-4bdd-8471-6848f5bd126d",
+                            "start_date": "2024-01-27",
+                            "update_date": "2024-02-07",
+                            "comment": "Bruins announce Poitras underwent a right shoulder open stabilization procedure. He is expected to miss 5 months.",
+                            "desc": "Shoulder",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4416d559-0f24-11e2-8525-18a905767e44",
+            "name": "Sabres",
+            "market": "Buffalo",
+            "sr_id": "sr:team:3678",
+            "reference": "7",
+            "players": [
+                {
+                    "id": "b2265192-8a74-4401-955e-629899f5292b",
+                    "full_name": "Mattias Samuelsson",
+                    "first_name": "Mattias",
+                    "last_name": "Samuelsson",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "23",
+                    "sr_id": "sr:player:1401477",
+                    "reference": "8480807",
+                    "injuries": [
+                        {
+                            "id": "530a3aa8-24d5-44b1-9401-a4fa37d48f78",
+                            "start_date": "2024-01-24",
+                            "update_date": "2024-02-06",
+                            "comment": "The Buffalo Sabres placed D Mattias Samuelsson on Injured Reserve.",
+                            "desc": "Upper body",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "353f9e1c-5782-407a-9950-51a94d052567",
+                    "full_name": "Owen Power",
+                    "first_name": "Owen",
+                    "last_name": "Power",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "25",
+                    "sr_id": "sr:player:2064985",
+                    "reference": "8482671",
+                    "injuries": [
+                        {
+                            "id": "76fd2bb1-277a-4675-88b3-7b99c3e7a8ac",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-13",
+                            "comment": "Power is going to be out for a couple of weeks with a hand/wrist issue he suffered in practice, per Mike Harrington on X.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "a6bd3315-d04f-461d-8969-f974197519c2",
+                    "full_name": "Jack Quinn",
+                    "first_name": "Jack",
+                    "last_name": "Quinn",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "22",
+                    "sr_id": "sr:player:2066981",
+                    "reference": "8482097",
+                    "injuries": [
+                        {
+                            "id": "c42fcf0b-bc1d-4fa2-9065-071e68a2e659",
+                            "start_date": "2024-01-27",
+                            "update_date": "2024-02-15",
+                            "comment": "The Buffalo Sabres placed F Jack Quinn on injured reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44159241-0f24-11e2-8525-18a905767e44",
+            "name": "Flames",
+            "market": "Calgary",
+            "sr_id": "sr:team:3679",
+            "reference": "20",
+            "players": [
+                {
+                    "id": "8d8f90bf-5c5c-46b6-9e49-da553f1dad8c",
+                    "full_name": "A.J. Greer",
+                    "first_name": "A.J.",
+                    "last_name": "Greer",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "18",
+                    "sr_id": "sr:player:1051385",
+                    "reference": "8478421",
+                    "injuries": [
+                        {
+                            "id": "582b351d-49f6-48fe-8538-dcda8d46bc00",
+                            "start_date": "2024-01-26",
+                            "update_date": "2024-02-04",
+                            "comment": "The Galgary Flames placed F A.J. Greer on Injured Reserve.",
+                            "desc": "Foot",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "cd852885-cf71-453f-b413-4b911baa287c",
+                    "full_name": "Jakob Pelletier",
+                    "first_name": "Jakob",
+                    "last_name": "Pelletier",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "22",
+                    "sr_id": "sr:player:1650601",
+                    "reference": "8481592",
+                    "injuries": [
+                        {
+                            "id": "d792f69a-663e-4787-bf45-5432623e79ed",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-17",
+                            "comment": "Pelletier is out for Saturday's (Feb. 17) game against Detroit.",
+                            "desc": "Upper Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44155909-0f24-11e2-8525-18a905767e44",
+            "name": "Sharks",
+            "market": "San Jose",
+            "sr_id": "sr:team:3696",
+            "reference": "28",
+            "players": [
+                {
+                    "id": "ecd34f08-b5ae-4327-bced-a8eac2344a9e",
+                    "full_name": "Henry Thrun",
+                    "first_name": "Henry",
+                    "last_name": "Thrun",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "3",
+                    "sr_id": "sr:player:1651119",
+                    "reference": "8481567",
+                    "injuries": [
+                        {
+                            "id": "5a113fd8-2553-45d0-8813-f0fd2bcd0afa",
+                            "start_date": "2024-01-26",
+                            "update_date": "2024-01-27",
+                            "comment": "The San Jose Sharks placed D Henry Thrun on Injured Reserve.",
+                            "desc": "Shoulder",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "7ca29739-3029-4ba5-b96b-8242ecee4fb8",
+                    "full_name": "Matt Benning",
+                    "first_name": "Matt",
+                    "last_name": "Benning",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:1050125",
+                    "reference": "8476988",
+                    "injuries": [
+                        {
+                            "id": "6bf47609-8a58-454a-bc6c-b2d96b63bbc9",
+                            "start_date": "2023-12-12",
+                            "update_date": "2024-01-04",
+                            "comment": "The Sharks announced that Benning's estimated time of recovery is approximately five months.",
+                            "desc": "Lower Body",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "64669a46-a90a-4d58-a759-87e5d0591515",
+                    "full_name": "Tomas Hertl",
+                    "first_name": "Tomas",
+                    "last_name": "Hertl",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "48",
+                    "sr_id": "sr:player:179667",
+                    "reference": "8476881",
+                    "injuries": [
+                        {
+                            "id": "7d7f377f-16c7-4446-aa82-f4c5ee0bde3f",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-12",
+                            "comment": "The San Jose Sharks placed F Thomas Hertl on Injured Reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "428cf927-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Logan Couture",
+                    "first_name": "Logan",
+                    "last_name": "Couture",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "39",
+                    "sr_id": "sr:player:99207",
+                    "reference": "8474053",
+                    "injuries": [
+                        {
+                            "id": "a0c31782-b956-479f-b251-0f76614bc3d2",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-12",
+                            "comment": "Couture had a setback of sorts, per Coach Quinn. He is out week-to-week with a groin injury.",
+                            "desc": "Groin",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "b0646399-8e3f-44f3-a6a5-a57fcb393185",
+                    "full_name": "Givani Smith",
+                    "first_name": "Givani",
+                    "last_name": "Smith",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "54",
+                    "sr_id": "sr:player:984081",
+                    "reference": "8479379",
+                    "injuries": [
+                        {
+                            "id": "f91e8d00-39bd-49b0-8c0d-441755cd32a9",
+                            "start_date": "2023-12-21",
+                            "update_date": "2023-12-28",
+                            "comment": "The San Jose Sharks placed F Givani Smith on injured reserve.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+            "name": "Golden Knights",
+            "market": "Vegas",
+            "sr_id": "sr:team:344158",
+            "reference": "54",
+            "players": [
+                {
+                    "id": "5cb512ae-8207-4a2f-9209-614c4cdb6344",
+                    "full_name": "Jack Eichel",
+                    "first_name": "Jack",
+                    "last_name": "Eichel",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "9",
+                    "sr_id": "sr:player:834041",
+                    "reference": "8478403",
+                    "injuries": [
+                        {
+                            "id": "64a6f237-0fd3-4bfe-95eb-885201b9a952",
+                            "start_date": "2024-01-13",
+                            "update_date": "2024-01-16",
+                            "comment": "Eichel had successful lower-body surgery and will be out week-to-week , according to the Vegas Golden Knights.",
+                            "desc": "Lower-Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "39865351-af7a-419c-8db6-5b270c2dd3ec",
+                    "full_name": "Logan Thompson",
+                    "first_name": "Logan",
+                    "last_name": "Thompson",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "36",
+                    "sr_id": "sr:player:1596840",
+                    "reference": "8480313",
+                    "injuries": [
+                        {
+                            "id": "6699c67d-3d0f-473a-b9db-b8a2e7d7c697",
+                            "start_date": "2024-02-12",
+                            "update_date": "2024-02-13",
+                            "comment": "Thompson did not play in Monday's (Feb. 12) game against Minnesota.",
+                            "desc": "Illness",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "8b666187-cf65-49fa-a12e-a03a5c0526b9",
+                    "full_name": "Pavel Dorofeyev",
+                    "first_name": "Pavel",
+                    "last_name": "Dorofeyev",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "16",
+                    "sr_id": "sr:player:1604286",
+                    "reference": "8481604",
+                    "injuries": [
+                        {
+                            "id": "89c237de-c7e7-4f18-9b0b-4ed31e66ef37",
+                            "start_date": "2024-01-26",
+                            "update_date": "2024-02-12",
+                            "comment": "The Vegas Golden Knights placed F Pavel Dorofeyev on Injured Reserve.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "32a43ff1-60d9-40dd-a4d3-810d9bf555a6",
+                    "full_name": "Shea Theodore",
+                    "first_name": "Shea",
+                    "last_name": "Theodore",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "27",
+                    "sr_id": "sr:player:352072",
+                    "reference": "8477447",
+                    "injuries": [
+                        {
+                            "id": "90aa6bfd-92aa-4628-bcb7-d62198955486",
+                            "start_date": "2023-11-26",
+                            "update_date": "2023-12-02",
+                            "comment": "The Vegas Golden Knights placed D Shea Theodore on Long-Term Injured Reserve.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "aa0ef29e-9f7a-4331-81c4-67e0e3d480fa",
+                    "full_name": "William Carrier",
+                    "first_name": "William",
+                    "last_name": "Carrier",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "28",
+                    "sr_id": "sr:player:904054",
+                    "reference": "8477478",
+                    "injuries": [
+                        {
+                            "id": "9d9800ce-6d13-4df5-8814-3d408b71a80c",
+                            "start_date": "2024-01-10",
+                            "update_date": "2024-01-10",
+                            "comment": "The Vegas Golden Knights placed F William Carrier on the Injured Reserve.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44169bb9-0f24-11e2-8525-18a905767e44",
+            "name": "Red Wings",
+            "market": "Detroit",
+            "sr_id": "sr:team:3685",
+            "reference": "17",
+            "players": [
+                {
+                    "id": "b97d7704-2ebf-4a4c-8594-696ba520005e",
+                    "full_name": "Matt Luff",
+                    "first_name": "Matt",
+                    "last_name": "Luff",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "22",
+                    "sr_id": "sr:player:1067184",
+                    "reference": "8479644",
+                    "injuries": [
+                        {
+                            "id": "65a5c90a-8943-4748-bcdb-3162233b3ea1",
+                            "start_date": "2023-10-08",
+                            "update_date": "2023-10-08",
+                            "comment": "The Detroit Red Wings placed F Matt Luff on injured reserve.",
+                            "desc": "Upper Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "89b35485-113b-4071-be05-3ba09ac75048",
+                    "full_name": "Ville Husso",
+                    "first_name": "Ville",
+                    "last_name": "Husso",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "35",
+                    "sr_id": "sr:player:264567",
+                    "reference": "8478024",
+                    "injuries": [
+                        {
+                            "id": "9caaff54-545f-445b-9125-121452be2428",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-15",
+                            "comment": "Coach Derek Lalonde said that Husso is considered week-to-week.",
+                            "desc": "Lower-Body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44182a9d-0f24-11e2-8525-18a905767e44",
+            "name": "Hurricanes",
+            "market": "Carolina",
+            "sr_id": "sr:team:3680",
+            "reference": "12",
+            "players": [
+                {
+                    "id": "926d4c4e-e1e5-4345-8456-13fd06df8579",
+                    "full_name": "Antti Raanta",
+                    "first_name": "Antti",
+                    "last_name": "Raanta",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "32",
+                    "sr_id": "sr:player:42770",
+                    "reference": "8477293",
+                    "injuries": [
+                        {
+                            "id": "73e69a47-77a8-4144-a904-55946939e673",
+                            "start_date": "2024-02-08",
+                            "update_date": "2024-02-10",
+                            "comment": "Raanta is expected to miss a few weeks with a lower-body injury, according to Hurricanes' beat reporter Walt Ruff.",
+                            "desc": "Lower Body",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "4f7bcd47-1979-11e2-8525-18a905767e44",
+                    "full_name": "Frederik Andersen",
+                    "first_name": "Frederik",
+                    "last_name": "Andersen",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "31",
+                    "sr_id": "sr:player:50856",
+                    "reference": "8475883",
+                    "injuries": [
+                        {
+                            "id": "89dc5e38-c961-4287-a1f2-8beceb2f4e2c",
+                            "start_date": "2023-11-06",
+                            "update_date": "2023-11-06",
+                            "comment": "The Carolina Hurricanes placed G Frederik Andersen on Injured Reserve.",
+                            "desc": "Blood Clotting",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "441766b9-0f24-11e2-8525-18a905767e44",
+            "name": "Islanders",
+            "market": "New York",
+            "sr_id": "sr:team:3703",
+            "reference": "2",
+            "players": [
+                {
+                    "id": "0abbc491-fb14-4293-8dbf-f85cb5431e04",
+                    "full_name": "Hudson Fasching",
+                    "first_name": "Hudson",
+                    "last_name": "Fasching",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "20",
+                    "sr_id": "sr:player:976715",
+                    "reference": "8477392",
+                    "injuries": [
+                        {
+                            "id": "83689a51-63a1-447a-8179-1a6c2d5eb2d8",
+                            "start_date": "2024-01-25",
+                            "update_date": "2024-02-14",
+                            "comment": "Fasching did not play in Tuesday's (Feb. 13) game against Seattle.",
+                            "desc": "Lower Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                },
+                {
+                    "id": "4341950f-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Robert Bortuzzo",
+                    "first_name": "Robert",
+                    "last_name": "Bortuzzo",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "41",
+                    "sr_id": "sr:player:185309",
+                    "reference": "8474145",
+                    "injuries": [
+                        {
+                            "id": "bdf003a6-ba3b-4f6b-b7f5-f5aee8c86c8a",
+                            "start_date": "2024-01-03",
+                            "update_date": "2024-01-03",
+                            "comment": "The New York Islanders placed D Robert Bortuzzo on injured reserve.",
+                            "desc": "Lower body",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44167db4-0f24-11e2-8525-18a905767e44",
+            "name": "Blue Jackets",
+            "market": "Columbus",
+            "sr_id": "sr:team:3683",
+            "reference": "29",
+            "players": [
+                {
+                    "id": "55bfd682-4e66-4043-96b7-adc4aab4a39d",
+                    "full_name": "Patrik Laine",
+                    "first_name": "Patrik",
+                    "last_name": "Laine",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "29",
+                    "sr_id": "sr:player:600086",
+                    "reference": "8479339",
+                    "injuries": [
+                        {
+                            "id": "a48a4d56-da5a-495d-b481-1cad498852c5",
+                            "start_date": "2023-12-14",
+                            "update_date": "2024-01-28",
+                            "comment": "Laine entered the NHL/NHLPA Player Assistance Program and will be out indefinitely.",
+                            "desc": "Collarbone",
+                            "status": "Out"
+                        }
+                    ]
+                },
+                {
+                    "id": "63ef3816-aa4a-451b-b428-7675ef8ae03a",
+                    "full_name": "Adam Fantilli",
+                    "first_name": "Adam",
+                    "last_name": "Fantilli",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:2426813",
+                    "reference": "8484166",
+                    "injuries": [
+                        {
+                            "id": "d9d0fc41-acec-4263-8c77-628361efb3c7",
+                            "start_date": "2024-01-28",
+                            "update_date": "2024-01-31",
+                            "comment": "Columbus Blue Jackets announced C Adam Fantilli is expected to be sidelined for eight weeks due to a calf laceration.",
+                            "desc": "Leg",
+                            "status": "Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "441781b9-0f24-11e2-8525-18a905767e44",
+            "name": "Rangers",
+            "market": "New York",
+            "sr_id": "sr:team:3701",
+            "reference": "3",
+            "players": [
+                {
+                    "id": "4355ab9b-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Blake Wheeler",
+                    "first_name": "Blake",
+                    "last_name": "Wheeler",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "17",
+                    "sr_id": "sr:player:42741",
+                    "reference": "8471218",
+                    "injuries": [
+                        {
+                            "id": "b8261c89-40a1-437c-8b9a-37127ed12eef",
+                            "start_date": "2024-02-15",
+                            "update_date": "2024-02-16",
+                            "comment": "The New York Rangers placed F Blake Wheeler on Injured Reserve.",
+                            "desc": "Lower-Body",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "b428aa9b-d2dd-461f-9606-51ed00e1e165",
+                    "full_name": "Filip Chytil",
+                    "first_name": "Filip",
+                    "last_name": "Chytil",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "72",
+                    "sr_id": "sr:player:1069434",
+                    "reference": "8480078",
+                    "injuries": [
+                        {
+                            "id": "d6502f8d-45b4-4c0c-adc7-3415e4305d23",
+                            "start_date": "2023-11-02",
+                            "update_date": "2024-01-28",
+                            "comment": "Chytil has been ruled out for the season by the New York Rangers.",
+                            "desc": "Upper-Body",
+                            "status": "Out For Season"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+            "name": "Avalanche",
+            "market": "Colorado",
+            "sr_id": "sr:team:3682",
+            "reference": "21",
+            "players": [
+                {
+                    "id": "42a88700-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Gabriel Landeskog",
+                    "first_name": "Gabriel",
+                    "last_name": "Landeskog",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "92",
+                    "sr_id": "sr:player:181523",
+                    "reference": "8476455",
+                    "injuries": [
+                        {
+                            "id": "cf26bed9-4c50-4b7e-a1d9-bb97bfb7eb6d",
+                            "start_date": "2022-09-22",
+                            "update_date": "2023-05-09",
+                            "comment": "The Avalanche announced Landeskog is expected to miss the entire 2023-24 season.",
+                            "desc": "Knee",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "c0d4498a-faa8-4c0e-8d6b-527b3502a909",
+                    "full_name": "Pavel Francouz",
+                    "first_name": "Pavel",
+                    "last_name": "Francouz",
+                    "position": "G",
+                    "primary_position": "G",
+                    "jersey_number": "39",
+                    "sr_id": "sr:player:87000",
+                    "reference": "8480925",
+                    "injuries": [
+                        {
+                            "id": "e290de66-1297-40e8-a284-c8da26b3f6cc",
+                            "start_date": "2023-05-09",
+                            "update_date": "2023-11-12",
+                            "comment": "The Avalanche announced that Francouz will return to the Czech Republic for the rest of the season.",
+                            "desc": "Groin",
+                            "status": "Out For Season"
+                        }
+                    ]
+                },
+                {
+                    "id": "1cb1b41a-02ec-47dc-9252-9e779c677390",
+                    "full_name": "Logan O'Connor",
+                    "first_name": "Logan",
+                    "last_name": "O'Connor",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "25",
+                    "sr_id": "sr:player:1546011",
+                    "reference": "8481186",
+                    "injuries": [
+                        {
+                            "id": "f2128a70-e5bb-4d5f-9a37-a8ccc4fa88b0",
+                            "start_date": "2024-02-13",
+                            "update_date": "2024-02-16",
+                            "comment": "O'Connor did not play in Thursday's (Feb. 15) game against Tampa Bay.",
+                            "desc": "Lower Body",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4415ea6c-0f24-11e2-8525-18a905767e44",
+            "name": "Oilers",
+            "market": "Edmonton",
+            "sr_id": "sr:team:3686",
+            "reference": "22",
+            "players": [
+                {
+                    "id": "54e13854-ae0e-41d4-86fa-6b5be9f03630",
+                    "full_name": "Dylan Holloway",
+                    "first_name": "Dylan",
+                    "last_name": "Holloway",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "55",
+                    "sr_id": "sr:player:1862754",
+                    "reference": "8482077",
+                    "injuries": [
+                        {
+                            "id": "f656bc5a-4b90-4076-9beb-34349d179e63",
+                            "start_date": "2024-02-17",
+                            "update_date": "2024-02-17",
+                            "comment": "Holloway will not play in Saturday's game (Feb. 17) against Dallas, according to Head Coach Kris Knoblauch.",
+                            "desc": "Illness",
+                            "status": "Day To Day"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
